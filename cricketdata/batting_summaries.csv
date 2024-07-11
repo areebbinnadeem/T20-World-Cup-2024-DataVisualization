@@ -1,0 +1,873 @@
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+India vs South Africa,India,1,Rohit Sharma,c Klaasen b Maharaj,9,5,7,2,0,180.00
+India vs South Africa,India,2,Virat Kohli,c Rabada b Jansen,76,59,87,6,2,128.81
+India vs South Africa,India,3,Rishabh Pant,c †de Kock b Maharaj,0,2,2,0,0,0.00
+India vs South Africa,India,4,Suryakumar Yadav,c Klaasen b Rabada,3,4,9,0,0,75.00
+India vs South Africa,India,5,Axar Patel,run out (†de Kock),47,31,38,1,4,151.61
+India vs South Africa,India,6,Shivam Dube,c Miller b Nortje,27,16,32,3,1,168.75
+India vs South Africa,India,7,Hardik Pandya,,5,2,7,1,0,250.00
+India vs South Africa,India,8,Ravindra Jadeja,c Maharaj b Nortje,2,2,1,0,0,100.00
+India vs South Africa,South Africa,1,Reeza Hendricks, b Bumrah,4,5,6,1,0,80.00
+India vs South Africa,South Africa,2,Quinton de Kock,c Kuldeep Yadav b Arshdeep Singh,39,31,54,4,1,125.80
+India vs South Africa,South Africa,3,Aiden Markram,c †Pant b Arshdeep Singh,4,5,4,1,0,80.00
+India vs South Africa,South Africa,4,Tristan Stubbs, b Patel,31,21,24,3,1,147.61
+India vs South Africa,South Africa,5,Heinrich Klaasen,c †Pant b Pandya,52,27,33,2,5,192.59
+India vs South Africa,South Africa,6,David Miller,c Yadav b Pandya,21,17,37,1,1,123.52
+India vs South Africa,South Africa,7,Marco Jansen, b Bumrah,2,4,7,0,0,50.00
+India vs South Africa,South Africa,8,Keshav Maharaj,,2,7,18,0,0,28.57
+India vs South Africa,South Africa,9,Kagiso Rabada,c Yadav b Pandya,4,3,5,1,0,133.33
+India vs South Africa,South Africa,10,Anrich Nortje,,1,1,1,0,0,100.00
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+Afghanistan vs Australia,Afghanistan,1,Rahmanullah Gurbaz,c Warner b Stoinis,60,49,66,4,4,122.44
+Afghanistan vs Australia,Afghanistan,2,Ibrahim Zadran,c Marsh b Zampa,51,48,73,6,0,106.25
+Afghanistan vs Australia,Afghanistan,3,Azmatullah Omarzai, b Zampa,2,3,2,0,0,66.66
+Afghanistan vs Australia,Afghanistan,4,Karim Janat,c David b Cummins,13,9,13,0,1,144.44
+Afghanistan vs Australia,Afghanistan,5,Rashid Khan,c David b Cummins,2,5,4,0,0,40.00
+Afghanistan vs Australia,Afghanistan,6,Mohammad Nabi,,10,4,10,2,0,250.00
+Afghanistan vs Australia,Afghanistan,7,Gulbadin Naib,c Maxwell b Cummins,0,1,12,0,0,0.00
+Afghanistan vs Australia,Afghanistan,8,Nangeyalia Kharote,,1,1,2,0,0,100.00
+Afghanistan vs Australia,Australia,1,Travis Head, b Naveen-ul-Haq,0,3,2,0,0,0.00
+Afghanistan vs Australia,Australia,2,David Warner,c Noor Ahmad b Mohammad Nabi,3,8,27,0,0,37.50
+Afghanistan vs Australia,Australia,3,Mitchell Marsh,c Mohammad Nabi b Naveen-ul-Haq,12,9,9,2,0,133.33
+Afghanistan vs Australia,Australia,4,Glenn Maxwell,c Noor Ahmad b Gulbadin Naib,59,41,58,6,3,143.90
+Afghanistan vs Australia,Australia,5,Marcus Stoinis,c †Rahmanullah Gurbaz b Gulbadin Naib,11,17,20,1,0,64.70
+Afghanistan vs Australia,Australia,6,Tim David,lbw b Gulbadin Naib,2,4,9,0,0,50.00
+Afghanistan vs Australia,Australia,7,Matthew Wade,c Karim Janat b Rashid Khan,5,7,16,0,0,71.42
+Afghanistan vs Australia,Australia,8,Pat Cummins, b Gulbadin Naib,3,9,9,0,0,33.33
+Afghanistan vs Australia,Australia,9,Ashton Agar,c Gulbadin Naib b Naveen-ul-Haq,2,5,10,0,0,40.00
+Afghanistan vs Australia,Australia,10,Adam Zampa,c Mohammad Nabi b Azmatullah Omarzai,9,7,15,1,0,128.57
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+U.S.A. vs England,United States of America,1,Steven Taylor,c Ali b Curran,12,13,25,2,0,92.30
+U.S.A. vs England,United States of America,2,Andries Gous,c Salt b Topley,8,5,4,0,1,160.00
+U.S.A. vs England,United States of America,3,Nitish Kumar, b Rashid,30,24,38,1,2,125.00
+U.S.A. vs England,United States of America,4,Aaron Jones, b Rashid,10,16,10,2,0,62.50
+U.S.A. vs England,United States of America,5,Corey Anderson,c Brook b Jordan,29,28,43,0,1,103.57
+U.S.A. vs England,United States of America,6,Milind Kumar,c †Buttler b Livingstone,4,6,13,0,0,66.66
+U.S.A. vs England,United States of America,7,Harmeet Singh,c Jordan b Curran,21,17,19,2,1,123.52
+U.S.A. vs England,United States of America,8,Shadley van Schalkwyk,,0,0,7,0,0,-
+U.S.A. vs England,United States of America,9,Ali Khan, b Jordan,0,2,1,0,0,0.00
+U.S.A. vs England,United States of America,10,Nosthush Kenjige,lbw b Jordan,0,1,1,0,0,0.00
+U.S.A. vs England,England,1,Phil Salt,,25,21,44,2,0,119.04
+U.S.A. vs England,England,2,Jos Buttler,,83,38,44,6,7,218.42
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+Afghanistan vs Bangladesh,Afghanistan,1,Rahmanullah Gurbaz,c Soumya Sarkar b Rishad Hossain,43,55,69,3,1,78.18
+Afghanistan vs Bangladesh,Afghanistan,2,Ibrahim Zadran,c Tanzim Hasan Sakib b Rishad Hossain,18,29,46,1,0,62.06
+Afghanistan vs Bangladesh,Afghanistan,3,Azmatullah Omarzai,c †Litton Das b Mustafizur Rahman,10,12,20,0,0,83.33
+Afghanistan vs Bangladesh,Afghanistan,4,Gulbadin Naib,c Soumya Sarkar b Rishad Hossain,4,3,4,1,0,133.33
+Afghanistan vs Bangladesh,Afghanistan,5,Mohammad Nabi,c Najmul Hossain Shanto b Taskin Ahmed,1,5,6,0,0,20.00
+Afghanistan vs Bangladesh,Afghanistan,6,Karim Janat,,7,6,15,1,0,116.66
+Afghanistan vs Bangladesh,Afghanistan,7,Rashid Khan,,19,10,10,0,3,190.00
+Afghanistan vs Bangladesh,Bangladesh,1,Litton Das,,54,49,95,5,1,110.20
+Afghanistan vs Bangladesh,Bangladesh,2,Tanzid Hasan,lbw b Fazalhaq Farooqi,0,3,12,0,0,0.00
+Afghanistan vs Bangladesh,Bangladesh,3,Najmul Hossain Shanto,c Mohammad Nabi b Naveen-ul-Haq,5,5,7,1,0,100.00
+Afghanistan vs Bangladesh,Bangladesh,4,Shakib Al Hasan,c & b Naveen-ul-Haq,0,1,1,0,0,0.00
+Afghanistan vs Bangladesh,Bangladesh,5,Soumya Sarkar, b Rashid Khan,10,10,18,1,0,100.00
+Afghanistan vs Bangladesh,Bangladesh,6,Towhid Hridoy,c Ibrahim Zadran b Rashid Khan,14,9,7,2,0,155.55
+Afghanistan vs Bangladesh,Bangladesh,7,Mahmudullah,c sub (†Mohammad Ishaq) b Rashid Khan,6,9,8,1,0,66.66
+Afghanistan vs Bangladesh,Bangladesh,8,Rishad Hossain, b Rashid Khan,0,1,1,0,0,0.00
+Afghanistan vs Bangladesh,Bangladesh,9,Tanzim Hasan Sakib,c Mohammad Nabi b Gulbadin Naib,3,10,13,0,0,30.00
+Afghanistan vs Bangladesh,Bangladesh,10,Taskin Ahmed, b Naveen-ul-Haq,2,9,31,0,0,22.22
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+Afghanistan vs South Africa,Afghanistan,1,Rahmanullah Gurbaz,c Hendricks b Jansen,0,3,5,0,0,0.00
+Afghanistan vs South Africa,Afghanistan,2,Ibrahim Zadran, b Rabada,2,5,15,0,0,40.00
+Afghanistan vs South Africa,Afghanistan,3,Gulbadin Naib, b Jansen,9,8,6,2,0,112.50
+Afghanistan vs South Africa,Afghanistan,4,Azmatullah Omarzai,c Stubbs b Nortje,10,12,18,2,0,83.33
+Afghanistan vs South Africa,Afghanistan,5,Mohammad Nabi, b Rabada,0,3,1,0,0,0.00
+Afghanistan vs South Africa,Afghanistan,6,Nangeyalia Kharote,c †de Kock b Jansen,2,7,5,0,0,28.57
+Afghanistan vs South Africa,Afghanistan,7,Karim Janat,lbw b Shamsi,8,13,22,1,0,61.53
+Afghanistan vs South Africa,Afghanistan,8,Rashid Khan, b Nortje,8,8,20,2,0,100.00
+Afghanistan vs South Africa,Afghanistan,9,Noor Ahmad,lbw b Shamsi,0,2,2,0,0,0.00
+Afghanistan vs South Africa,Afghanistan,10,Naveen-ul-Haq,lbw b Shamsi,2,8,9,0,0,25.00
+Afghanistan vs South Africa,South Africa,1,Quinton de Kock, b Fazalhaq Farooqi,5,8,7,1,0,62.50
+Afghanistan vs South Africa,South Africa,2,Reeza Hendricks,,29,25,44,3,1,116.00
+Afghanistan vs South Africa,South Africa,3,Aiden Markram,,23,21,35,4,0,109.52
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+West Indies vs South Africa,West Indies,1,Kyle Mayers,c Stubbs b Shamsi,35,34,53,3,2,102.94
+West Indies vs South Africa,West Indies,2,Shai Hope,c Stubbs b Jansen,0,1,3,0,0,0.00
+West Indies vs South Africa,West Indies,3,Nicholas Pooran,c Jansen b Markram,1,3,4,0,0,33.33
+West Indies vs South Africa,West Indies,4,Roston Chase,c Rabada b Shamsi,52,42,59,3,2,123.80
+West Indies vs South Africa,West Indies,5,Rovman Powell,st †de Kock b Maharaj,1,2,2,0,0,50.00
+West Indies vs South Africa,West Indies,6,Sherfane Rutherford,c Markram b Shamsi,0,4,5,0,0,0.00
+West Indies vs South Africa,West Indies,7,Andre Russell,run out (Nortje),15,9,15,0,2,166.66
+West Indies vs South Africa,West Indies,8,Akeal Hosein,c & b Rabada,6,11,12,1,0,54.54
+West Indies vs South Africa,West Indies,9,Alzarri Joseph,,11,7,14,0,1,157.14
+West Indies vs South Africa,West Indies,10,Gudakesh Motie,,4,7,10,1,0,57.14
+West Indies vs South Africa,South Africa,1,Quinton de Kock,c Rutherford b Russell,12,7,10,3,0,171.42
+West Indies vs South Africa,South Africa,2,Reeza Hendricks,c †Pooran b Russell,0,1,5,0,0,0.00
+West Indies vs South Africa,South Africa,3,Aiden Markram,c Mayers b Joseph,18,15,20,2,0,120.00
+West Indies vs South Africa,South Africa,4,Tristan Stubbs,c Mayers b Chase,29,27,55,4,0,107.40
+West Indies vs South Africa,South Africa,5,Heinrich Klaasen,c †Pooran b Joseph,22,10,13,3,1,220.00
+West Indies vs South Africa,South Africa,6,David Miller, b Chase,4,14,18,0,0,28.57
+West Indies vs South Africa,South Africa,7,Marco Jansen,,21,14,22,1,1,150.00
+West Indies vs South Africa,South Africa,8,Keshav Maharaj,c Joseph b Chase,2,6,9,0,0,33.33
+West Indies vs South Africa,South Africa,9,Kagiso Rabada,,5,3,5,1,0,166.66
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+India vs England,India,1,Rohit Sharma, b Rashid,57,39,57,6,2,146.15
+India vs England,India,2,Virat Kohli, b Topley,9,9,10,0,1,100.00
+India vs England,India,3,Rishabh Pant,c Bairstow b Curran,4,6,12,0,0,66.66
+India vs England,India,4,Suryakumar Yadav,c Jordan b Archer,47,36,40,4,2,130.55
+India vs England,India,5,Hardik Pandya,c Curran b Jordan,23,13,17,1,2,176.92
+India vs England,India,6,Ravindra Jadeja,,17,9,24,2,0,188.88
+India vs England,India,7,Shivam Dube,c †Buttler b Jordan,0,1,1,0,0,0.00
+India vs England,India,8,Axar Patel,c Salt b Jordan,10,6,10,0,1,166.66
+India vs England,India,9,Arshdeep Singh,,1,1,1,0,0,100.00
+India vs England,England,1,Phil Salt, b Bumrah,5,8,20,0,0,62.50
+India vs England,England,2,Jos Buttler,c †Pant b Patel,23,15,13,4,0,153.33
+India vs England,England,3,Moeen Ali,st †Pant b Patel,8,10,18,0,0,80.00
+India vs England,England,4,Jonny Bairstow, b Patel,0,3,2,0,0,0.00
+India vs England,England,5,Harry Brook, b Kuldeep Yadav,25,19,21,3,0,131.57
+India vs England,England,6,Sam Curran,lbw b Kuldeep Yadav,2,4,4,0,0,50.00
+India vs England,England,7,Liam Livingstone,run out (Kuldeep Yadav/Patel),11,16,24,0,0,68.75
+India vs England,England,8,Chris Jordan,lbw b Kuldeep Yadav,1,5,6,0,0,20.00
+India vs England,England,9,Jofra Archer,lbw b Bumrah,21,15,17,1,2,140.00
+India vs England,England,10,Adil Rashid,run out (Yadav),2,2,2,0,0,100.00
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+India vs Australia,India,1,Rohit Sharma, b Starc,92,41,59,7,8,224.39
+India vs Australia,India,2,Virat Kohli,c David b Hazlewood,0,5,8,0,0,0.00
+India vs Australia,India,3,Rishabh Pant,c Hazlewood b Stoinis,15,14,33,1,1,107.14
+India vs Australia,India,4,Suryakumar Yadav,c †Wade b Starc,31,16,29,3,2,193.75
+India vs Australia,India,5,Shivam Dube,c Warner b Stoinis,28,22,33,2,1,127.27
+India vs Australia,India,6,Hardik Pandya,,27,17,24,1,2,158.82
+India vs Australia,India,7,Ravindra Jadeja,,9,5,4,0,1,180.00
+India vs Australia,Australia,1,David Warner,c Yadav b Arshdeep Singh,6,6,5,1,0,100.00
+India vs Australia,Australia,2,Travis Head,c Sharma b Bumrah,76,43,76,9,4,176.74
+India vs Australia,Australia,3,Mitchell Marsh,c Patel b Kuldeep Yadav,37,28,38,3,2,132.14
+India vs Australia,Australia,4,Glenn Maxwell, b Kuldeep Yadav,20,12,15,2,1,166.66
+India vs Australia,Australia,5,Marcus Stoinis,c Pandya b Patel,2,4,4,0,0,50.00
+India vs Australia,Australia,6,Tim David,c Bumrah b Arshdeep Singh,15,11,22,1,1,136.36
+India vs Australia,Australia,7,Matthew Wade,c Kuldeep Yadav b Arshdeep Singh,1,2,5,0,0,50.00
+India vs Australia,Australia,8,Pat Cummins,,11,7,15,0,1,157.14
+India vs Australia,Australia,9,Mitchell Starc,,4,7,9,0,0,57.14
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+India vs Bangladesh,India,1,Rohit Sharma,c Jaker Ali b Shakib Al Hasan,23,11,14,3,1,209.09
+India vs Bangladesh,India,2,Virat Kohli, b Tanzim Hasan Sakib,37,28,34,1,3,132.14
+India vs Bangladesh,India,3,Rishabh Pant,c Tanzim Hasan Sakib b Rishad Hossain,36,24,36,4,2,150.00
+India vs Bangladesh,India,4,Suryakumar Yadav,c †Litton Das b Tanzim Hasan Sakib,6,2,2,0,1,300.00
+India vs Bangladesh,India,5,Shivam Dube, b Rishad Hossain,34,24,38,0,3,141.66
+India vs Bangladesh,India,6,Hardik Pandya,,50,27,38,4,3,185.18
+India vs Bangladesh,India,7,Axar Patel,,3,5,13,0,0,60.00
+India vs Bangladesh,Bangladesh,1,Litton Das,c Yadav b Pandya,13,10,20,1,1,130.00
+India vs Bangladesh,Bangladesh,2,Tanzid Hasan,lbw b Kuldeep Yadav,29,31,41,4,0,93.54
+India vs Bangladesh,Bangladesh,3,Najmul Hossain Shanto,c Arshdeep Singh b Bumrah,40,32,46,1,3,125.00
+India vs Bangladesh,Bangladesh,4,Towhid Hridoy,lbw b Kuldeep Yadav,4,6,6,0,0,66.66
+India vs Bangladesh,Bangladesh,5,Shakib Al Hasan,c Sharma b Kuldeep Yadav,11,7,7,1,1,157.14
+India vs Bangladesh,Bangladesh,6,Mahmudullah,c Patel b Arshdeep Singh,13,15,30,1,0,86.66
+India vs Bangladesh,Bangladesh,7,Jaker Ali,c Kohli b Arshdeep Singh,1,4,3,0,0,25.00
+India vs Bangladesh,Bangladesh,8,Rishad Hossain,c Sharma b Bumrah,24,10,9,1,3,240.00
+India vs Bangladesh,Bangladesh,9,Mahedi Hasan,,5,4,7,1,0,125.00
+India vs Bangladesh,Bangladesh,10,Tanzim Hasan Sakib,,1,1,1,0,0,100.00
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+South Africa vs England,South Africa,1,Reeza Hendricks,c Brook b Ali,19,25,41,1,0,76.00
+South Africa vs England,South Africa,2,Quinton de Kock,c †Buttler b Archer,65,38,50,4,4,171.05
+South Africa vs England,South Africa,3,Heinrich Klaasen,run out (†Buttler),8,13,21,1,0,61.53
+South Africa vs England,South Africa,4,David Miller,c Brook b Archer,43,28,40,4,2,153.57
+South Africa vs England,South Africa,5,Aiden Markram, b Rashid,1,2,4,0,0,50.00
+South Africa vs England,South Africa,6,Tristan Stubbs,,12,11,28,1,0,109.09
+South Africa vs England,South Africa,7,Marco Jansen,c Curran b Archer,0,1,1,0,0,0.00
+South Africa vs England,South Africa,8,Keshav Maharaj,,5,2,3,1,0,250.00
+South Africa vs England,England,1,Phil Salt,c Hendricks b Rabada,11,8,8,1,1,137.50
+South Africa vs England,England,2,Jos Buttler,c Klaasen b Maharaj,17,20,38,1,0,85.00
+South Africa vs England,England,3,Jonny Bairstow,c Nortje b Maharaj,16,20,20,1,0,80.00
+South Africa vs England,England,4,Moeen Ali,c Maharaj b Baartman,9,10,15,0,0,90.00
+South Africa vs England,England,5,Harry Brook,c Markram b Nortje,53,37,50,7,0,143.24
+South Africa vs England,England,6,Liam Livingstone,c Stubbs b Rabada,33,17,33,3,2,194.11
+South Africa vs England,England,7,Sam Curran,,10,7,14,1,0,142.85
+South Africa vs England,England,8,Jofra Archer,,1,2,4,0,0,50.00
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+Bangladesh vs Australia,Bangladesh,1,Tanzid Hasan, b Starc,0,3,2,0,0,0.00
+Bangladesh vs Australia,Bangladesh,2,Litton Das, b Zampa,16,25,42,2,0,64.00
+Bangladesh vs Australia,Bangladesh,3,Najmul Hossain Shanto,lbw b Zampa,41,36,57,5,1,113.88
+Bangladesh vs Australia,Bangladesh,4,Rishad Hossain,c Zampa b Maxwell,2,4,5,0,0,50.00
+Bangladesh vs Australia,Bangladesh,5,Towhid Hridoy,c Hazlewood b Cummins,40,28,40,2,2,142.85
+Bangladesh vs Australia,Bangladesh,6,Shakib Al Hasan,c & b Stoinis,8,10,27,0,0,80.00
+Bangladesh vs Australia,Bangladesh,7,Mahmudullah, b Cummins,2,3,7,0,0,66.66
+Bangladesh vs Australia,Bangladesh,8,Mahedi Hasan,c Zampa b Cummins,0,1,1,0,0,0.00
+Bangladesh vs Australia,Bangladesh,9,Taskin Ahmed,,13,7,9,1,0,185.71
+Bangladesh vs Australia,Bangladesh,10,Tanzim Hasan Sakib,,4,3,3,0,0,133.33
+Bangladesh vs Australia,Australia,1,David Warner,,53,35,52,5,3,151.42
+Bangladesh vs Australia,Australia,2,Travis Head, b Rishad Hossain,31,21,30,3,2,147.61
+Bangladesh vs Australia,Australia,3,Mitchell Marsh,lbw b Rishad Hossain,1,6,8,0,0,16.66
+Bangladesh vs Australia,Australia,4,Glenn Maxwell,,14,6,12,1,1,233.33
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+West Indies vs U.S.A.,United States of America,1,Steven Taylor,c Chase b Russell,2,7,5,0,0,28.57
+West Indies vs U.S.A.,United States of America,2,Andries Gous,c Hope b Joseph,29,16,37,3,1,181.25
+West Indies vs U.S.A.,United States of America,3,Nitish Kumar,lbw b Motie,20,19,23,2,0,105.26
+West Indies vs U.S.A.,United States of America,4,Aaron Jones, b Chase,11,11,12,0,1,100.00
+West Indies vs U.S.A.,United States of America,5,Corey Anderson,lbw b Chase,7,15,23,0,0,46.66
+West Indies vs U.S.A.,United States of America,6,Milind Kumar,run out (Motie/Russell),19,21,35,1,0,90.47
+West Indies vs U.S.A.,United States of America,7,Harmeet Singh,c Charles b Chase,0,1,1,0,0,0.00
+West Indies vs U.S.A.,United States of America,8,Shadley van Schalkwyk,c Charles b Russell,18,17,17,3,0,105.88
+West Indies vs U.S.A.,United States of America,9,Nosthush Kenjige,c †Pooran b Joseph,1,3,8,0,0,33.33
+West Indies vs U.S.A.,United States of America,10,Ali Khan,,14,6,11,1,1,233.33
+West Indies vs U.S.A.,West Indies,1,Shai Hope,,82,39,-,4,8,210.25
+West Indies vs U.S.A.,West Indies,2,Johnson Charles,c Milind Kumar b Harmeet Singh,15,14,-,2,0,107.14
+West Indies vs U.S.A.,West Indies,3,Nicholas Pooran,,27,12,-,1,3,225.00
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+India vs Afghanistan,India,1,Rohit Sharma,c Rashid Khan b Fazalhaq Farooqi,8,13,13,1,0,61.53
+India vs Afghanistan,India,2,Virat Kohli,c Mohammad Nabi b Rashid Khan,24,24,41,0,1,100.00
+India vs Afghanistan,India,3,Rishabh Pant,lbw b Rashid Khan,20,11,20,4,0,181.81
+India vs Afghanistan,India,4,Suryakumar Yadav,c Mohammad Nabi b Fazalhaq Farooqi,53,28,51,5,3,189.28
+India vs Afghanistan,India,5,Shivam Dube,lbw b Rashid Khan,10,7,11,0,1,142.85
+India vs Afghanistan,India,6,Hardik Pandya,c Azmatullah Omarzai b Naveen-ul-Haq,32,24,40,3,2,133.33
+India vs Afghanistan,India,7,Ravindra Jadeja,c Gulbadin Naib b Fazalhaq Farooqi,7,5,11,1,0,140.00
+India vs Afghanistan,India,8,Axar Patel,run out (†Rahmanullah Gurbaz/Naveen-ul-Haq),12,6,11,2,0,200.00
+India vs Afghanistan,India,9,Arshdeep Singh,,2,2,8,0,0,100.00
+India vs Afghanistan,Afghanistan,1,Rahmanullah Gurbaz,c †Pant b Bumrah,11,8,7,1,1,137.50
+India vs Afghanistan,Afghanistan,2,Hazratullah Zazai,c Jadeja b Bumrah,2,4,20,0,0,50.00
+India vs Afghanistan,Afghanistan,3,Ibrahim Zadran,c Sharma b Patel,8,11,9,1,0,72.72
+India vs Afghanistan,Afghanistan,4,Gulbadin Naib,c †Pant b Kuldeep Yadav,17,21,25,1,1,80.95
+India vs Afghanistan,Afghanistan,5,Azmatullah Omarzai,c Patel b Jadeja,26,20,26,2,1,130.00
+India vs Afghanistan,Afghanistan,6,Najibullah Zadran,c Arshdeep Singh b Bumrah,19,17,22,0,2,111.76
+India vs Afghanistan,Afghanistan,7,Mohammad Nabi,c Jadeja b Kuldeep Yadav,14,14,24,0,1,100.00
+India vs Afghanistan,Afghanistan,8,Rashid Khan,c Jadeja b Arshdeep Singh,2,6,11,0,0,33.33
+India vs Afghanistan,Afghanistan,9,Noor Ahmad,c Sharma b Arshdeep Singh,12,18,19,1,1,66.66
+India vs Afghanistan,Afghanistan,10,Naveen-ul-Haq,c †Pant b Arshdeep Singh,0,1,1,0,0,0.00
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+West Indies vs England,West Indies,1,Brandon King,,23,13,23,3,1,176.92
+West Indies vs England,West Indies,2,Johnson Charles,c Brook b Ali,38,34,55,4,1,111.76
+West Indies vs England,West Indies,3,Nicholas Pooran,c †Buttler b Archer,36,32,53,4,1,112.50
+West Indies vs England,West Indies,4,Rovman Powell,c Wood b Livingstone,36,17,18,0,5,211.76
+West Indies vs England,West Indies,5,Andre Russell,c Salt b Rashid,1,2,7,0,0,50.00
+West Indies vs England,West Indies,6,Sherfane Rutherford,,28,15,20,1,2,186.66
+West Indies vs England,West Indies,7,Romario Shepherd,,5,7,16,1,0,71.42
+West Indies vs England,England,1,Phil Salt,,87,47,79,7,5,185.10
+West Indies vs England,England,2,Jos Buttler,lbw b Chase,25,22,34,2,0,113.63
+West Indies vs England,England,3,Moeen Ali,c Charles b Russell,13,10,9,2,0,130.00
+West Indies vs England,England,4,Jonny Bairstow,,48,26,32,5,2,184.61
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+P.N.G. vs New Zealand,Papua New Guinea,1,Tony Ura,c Phillips b Southee,1,2,6,0,0,50.00
+P.N.G. vs New Zealand,Papua New Guinea,2,Assad Vala,c Mitchell b Ferguson,6,16,19,1,0,37.50
+P.N.G. vs New Zealand,Papua New Guinea,3,Charles Amini,lbw b Ferguson,17,25,40,2,0,68.00
+P.N.G. vs New Zealand,Papua New Guinea,4,Sese Bau,c Allen b Santner,12,27,32,1,0,44.44
+P.N.G. vs New Zealand,Papua New Guinea,5,Hiri Hiri, b Boult,7,11,16,1,0,63.63
+P.N.G. vs New Zealand,Papua New Guinea,6,Chad Soper, b Ferguson,1,6,4,0,0,16.66
+P.N.G. vs New Zealand,Papua New Guinea,7,Kiplin Doriga, b Southee,5,7,14,1,0,71.42
+P.N.G. vs New Zealand,Papua New Guinea,8,Norman Vanua,c Mitchell b Boult,14,13,15,1,1,107.69
+P.N.G. vs New Zealand,Papua New Guinea,9,Alei Nao,c Mitchell b Sodhi,3,7,14,0,0,42.85
+P.N.G. vs New Zealand,Papua New Guinea,10,Kabua Morea,st †Conway b Sodhi,0,3,3,0,0,0.00
+P.N.G. vs New Zealand,New Zealand,1,Finn Allen,c †Doriga b Morea,0,2,3,0,0,0.00
+P.N.G. vs New Zealand,New Zealand,2,Devon Conway,lbw b Kamea,35,32,45,2,3,109.37
+P.N.G. vs New Zealand,New Zealand,3,Rachin Ravindra,c Kamea b Morea,6,11,15,0,0,54.54
+P.N.G. vs New Zealand,New Zealand,4,Kane Williamson,,18,17,38,2,0,105.88
+P.N.G. vs New Zealand,New Zealand,5,Daryl Mitchell,,19,12,13,3,0,158.33
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+South Africa vs U.S.A.,South Africa,1,Quinton de Kock,c Shayan Jahangir b Harmeet Singh,74,40,54,7,5,185.00
+South Africa vs U.S.A.,South Africa,2,Reeza Hendricks,c Anderson b Netravalkar,11,11,12,0,1,100.00
+South Africa vs U.S.A.,South Africa,3,Aiden Markram,c Ali Khan b Netravalkar,46,32,52,4,1,143.75
+South Africa vs U.S.A.,South Africa,4,David Miller,c & b Harmeet Singh,0,1,1,0,0,0.00
+South Africa vs U.S.A.,South Africa,5,Heinrich Klaasen,,36,22,35,0,3,163.63
+South Africa vs U.S.A.,South Africa,6,Tristan Stubbs,,20,16,24,2,0,125.00
+South Africa vs U.S.A.,United States of America,1,Steven Taylor,c Klaasen b Rabada,24,14,16,4,1,171.42
+South Africa vs U.S.A.,United States of America,2,Andries Gous,,80,47,88,5,5,170.21
+South Africa vs U.S.A.,United States of America,3,Nitish Kumar,c Stubbs b Rabada,8,6,9,0,1,133.33
+South Africa vs U.S.A.,United States of America,4,Aaron Jones,c †de Kock b Maharaj,0,5,4,0,0,0.00
+South Africa vs U.S.A.,United States of America,5,Corey Anderson, b Nortje,12,12,10,0,1,100.00
+South Africa vs U.S.A.,United States of America,6,Shayan Jahangir,lbw b Shamsi,3,9,51,0,0,33.33
+South Africa vs U.S.A.,United States of America,7,Harmeet Singh,c Stubbs b Rabada,38,22,30,2,3,172.72
+South Africa vs U.S.A.,United States of America,8,Jasdeep Singh,,2,6,7,0,0,33.33
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+West Indies vs Afghanistan,West Indies,1,Brandon King, b Azmatullah Omarzai,7,6,9,1,0,116.66
+West Indies vs Afghanistan,West Indies,2,Johnson Charles,c Gulbadin Naib b Naveen-ul-Haq,43,27,43,8,0,159.25
+West Indies vs Afghanistan,West Indies,3,Nicholas Pooran,run out (Azmatullah Omarzai),98,53,86,6,8,184.90
+West Indies vs Afghanistan,West Indies,4,Shai Hope,c Najibullah Zadran b Gulbadin Naib,25,17,14,0,2,147.05
+West Indies vs Afghanistan,West Indies,5,Rovman Powell,c sub (Nangeyalia Kharote) b Gulbadin Naib,26,15,28,1,2,173.33
+West Indies vs Afghanistan,West Indies,6,Andre Russell,,3,3,9,0,0,100.00
+West Indies vs Afghanistan,West Indies,7,Sherfane Rutherford,,1,1,1,0,0,100.00
+West Indies vs Afghanistan,Afghanistan,1,Rahmanullah Gurbaz,c Russell b Hosein,0,3,1,0,0,0.00
+West Indies vs Afghanistan,Afghanistan,2,Ibrahim Zadran,c Charles b McCoy,38,28,34,5,1,135.71
+West Indies vs Afghanistan,Afghanistan,3,Gulbadin Naib,lbw b Motie,7,10,26,1,0,70.00
+West Indies vs Afghanistan,Afghanistan,4,Azmatullah Omarzai,c Powell b Hosein,23,19,26,1,1,121.05
+West Indies vs Afghanistan,Afghanistan,5,Najibullah Zadran,c Charles b McCoy,0,2,1,0,0,0.00
+West Indies vs Afghanistan,Afghanistan,6,Mohammad Nabi, b McCoy,1,4,4,0,0,25.00
+West Indies vs Afghanistan,Afghanistan,7,Karim Janat,run out (King/Hosein),14,9,14,0,1,155.55
+West Indies vs Afghanistan,Afghanistan,8,Rashid Khan,c Powell b Russell,18,11,18,2,1,163.63
+West Indies vs Afghanistan,Afghanistan,9,Noor Ahmad,c Rutherford b Motie,2,4,6,0,0,50.00
+West Indies vs Afghanistan,Afghanistan,10,Naveen-ul-Haq,c †Pooran b Joseph,4,6,5,1,0,66.66
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+Ireland vs Pakistan,Ireland,1,Andy Balbirnie, b Shaheen Shah Afridi,0,3,2,0,0,0.00
+Ireland vs Pakistan,Ireland,2,Paul Stirling,c †Mohammad Rizwan b Mohammad Amir,1,2,11,0,0,50.00
+Ireland vs Pakistan,Ireland,3,Lorcan Tucker,c †Mohammad Rizwan b Shaheen Shah Afridi,2,2,1,0,0,100.00
+Ireland vs Pakistan,Ireland,4,Harry Tector,lbw b Shaheen Shah Afridi,0,6,15,0,0,0.00
+Ireland vs Pakistan,Ireland,5,Curtis Campher,c Saim Ayub b Haris Rauf,7,14,26,1,0,50.00
+Ireland vs Pakistan,Ireland,6,George Dockrell,c & b Mohammad Amir,11,10,11,2,0,110.00
+Ireland vs Pakistan,Ireland,7,Gareth Delany,c Shadab Khan b Imad Wasim,31,19,30,1,3,163.15
+Ireland vs Pakistan,Ireland,8,Mark Adair,c Shaheen Shah Afridi b Imad Wasim,15,19,34,2,0,78.94
+Ireland vs Pakistan,Ireland,9,Barry McCarthy, b Imad Wasim,2,7,12,0,0,28.57
+Ireland vs Pakistan,Ireland,10,Josh Little,,22,18,26,2,1,122.22
+Ireland vs Pakistan,Pakistan,1,Mohammad Rizwan,c Adair b McCarthy,17,16,30,2,0,106.25
+Ireland vs Pakistan,Pakistan,2,Saim Ayub,c †Tucker b Adair,17,17,19,2,1,100.00
+Ireland vs Pakistan,Pakistan,3,Babar Azam,,32,34,79,2,0,94.11
+Ireland vs Pakistan,Pakistan,4,Fakhar Zaman,c sub (GR Adair) b Campher,5,9,15,0,0,55.55
+Ireland vs Pakistan,Pakistan,5,Usman Khan,c Tector b McCarthy,2,3,4,0,0,66.66
+Ireland vs Pakistan,Pakistan,6,Shadab Khan,c †Tucker b McCarthy,0,2,3,0,0,0.00
+Ireland vs Pakistan,Pakistan,7,Imad Wasim,c Tector b Campher,4,6,5,1,0,66.66
+Ireland vs Pakistan,Pakistan,8,Abbas Afridi,c sub (GR Adair) b White,17,21,32,1,1,80.95
+Ireland vs Pakistan,Pakistan,9,Shaheen Shah Afridi,,13,5,23,0,2,260.00
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+Sri Lanka vs Netherlands,Sri Lanka,1,Pathum Nissanka,c Engelbrecht b Kingma,0,2,2,0,0,0.00
+Sri Lanka vs Netherlands,Sri Lanka,2,Kusal Mendis,c Engelbrecht b Dutt,46,29,49,5,0,158.62
+Sri Lanka vs Netherlands,Sri Lanka,3,Kamindu Mendis,c van Beek b van Meekeren,17,20,24,1,1,85.00
+Sri Lanka vs Netherlands,Sri Lanka,4,Dhananjaya de Silva,c de Leede b Pringle,34,26,38,3,1,130.76
+Sri Lanka vs Netherlands,Sri Lanka,5,Charith Asalanka,c de Leede b van Beek,46,21,31,1,5,219.04
+Sri Lanka vs Netherlands,Sri Lanka,6,Angelo Mathews,,30,15,27,1,2,200.00
+Sri Lanka vs Netherlands,Sri Lanka,7,Dasun Shanaka,c †Edwards b van Beek,0,1,1,0,0,0.00
+Sri Lanka vs Netherlands,Sri Lanka,8,Wanindu Hasaranga,,20,6,10,1,2,333.33
+Sri Lanka vs Netherlands,Netherlands,1,Michael Levitt,st †BKG Mendis b Theekshana,31,23,25,2,3,134.78
+Sri Lanka vs Netherlands,Netherlands,2,Max O'Dowd,c PHKD Mendis b Thushara,11,8,20,0,1,137.50
+Sri Lanka vs Netherlands,Netherlands,3,Vikramjit Singh,c PHKD Mendis b Shanaka,7,10,12,0,0,70.00
+Sri Lanka vs Netherlands,Netherlands,4,Sybrand Engelbrecht,c Asalanka b Pathirana,11,9,12,0,1,122.22
+Sri Lanka vs Netherlands,Netherlands,5,Scott Edwards,c Theekshana b Thushara,31,24,40,2,1,129.16
+Sri Lanka vs Netherlands,Netherlands,6,Bas de Leede,c Asalanka b Hasaranga,3,5,4,0,0,60.00
+Sri Lanka vs Netherlands,Netherlands,7,Logan van Beek,run out (†BKG Mendis),0,1,1,0,0,0.00
+Sri Lanka vs Netherlands,Netherlands,8,Tim Pringle,st †BKG Mendis b Hasaranga,2,4,7,0,0,50.00
+Sri Lanka vs Netherlands,Netherlands,9,Aryan Dutt, b Pathirana,10,8,11,1,0,125.00
+Sri Lanka vs Netherlands,Netherlands,10,Paul van Meekeren,lbw b Thushara,3,8,11,0,0,37.50
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+Bangladesh vs Nepal,Bangladesh,1,Tanzid Hasan,c & b Sompal Kami,0,1,-,0,0,0.00
+Bangladesh vs Nepal,Bangladesh,2,Litton Das,c †Aasif Sheikh b Sompal Kami,10,12,-,1,0,83.33
+Bangladesh vs Nepal,Bangladesh,3,Najmul Hossain Shanto, b Airee,4,5,-,0,0,80.00
+Bangladesh vs Nepal,Bangladesh,4,Shakib Al Hasan,lbw b Paudel,17,22,-,2,0,77.27
+Bangladesh vs Nepal,Bangladesh,5,Towhid Hridoy,c Lamichhane b Paudel,9,7,-,2,0,128.57
+Bangladesh vs Nepal,Bangladesh,6,Mahmudullah,run out (Gulsan Jha/Lamichhane),13,13,-,2,0,100.00
+Bangladesh vs Nepal,Bangladesh,7,Jaker Ali, b Lamichhane,12,26,-,0,0,46.15
+Bangladesh vs Nepal,Bangladesh,8,Tanzim Hasan Sakib, b Lamichhane,3,5,-,0,0,60.00
+Bangladesh vs Nepal,Bangladesh,9,Rishad Hossain,c Sah b Airee,13,7,-,1,1,185.71
+Bangladesh vs Nepal,Bangladesh,10,Taskin Ahmed,,12,15,-,2,0,80.00
+Bangladesh vs Nepal,Nepal,1,Kushal Bhurtel, b Tanzim Hasan Sakib,4,8,11,1,0,50.00
+Bangladesh vs Nepal,Nepal,2,Aasif Sheikh,c Shakib Al Hasan b Mustafizur Rahman,17,14,29,4,0,121.42
+Bangladesh vs Nepal,Nepal,3,Anil Sah,c Najmul Hossain Shanto b Tanzim Hasan Sakib,0,2,2,0,0,0.00
+Bangladesh vs Nepal,Nepal,4,Rohit Paudel,c Rishad Hossain b Tanzim Hasan Sakib,1,6,8,0,0,16.66
+Bangladesh vs Nepal,Nepal,5,Sundeep Jora,c Rishad Hossain b Tanzim Hasan Sakib,1,8,13,0,0,12.50
+Bangladesh vs Nepal,Nepal,6,Kushal Malla,c Najmul Hossain Shanto b Mustafizur Rahman,27,40,48,1,1,67.50
+Bangladesh vs Nepal,Nepal,7,Dipendra Singh Airee,c †Litton Das b Mustafizur Rahman,25,31,52,2,1,80.64
+Bangladesh vs Nepal,Nepal,8,Gulsan Jha,c Towhid Hridoy b Taskin Ahmed,0,4,5,0,0,0.00
+Bangladesh vs Nepal,Nepal,9,Sompal Kami,st †Litton Das b Shakib Al Hasan,0,2,6,0,0,0.00
+Bangladesh vs Nepal,Nepal,10,Sandeep Lamichhane,,0,0,3,0,0,-
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+Scotland vs Australia,Scotland,1,George Munsey,c Ellis b Maxwell,35,23,40,2,3,152.17
+Scotland vs Australia,Scotland,2,Michael Jones, b Agar,2,3,2,0,0,66.66
+Scotland vs Australia,Scotland,3,Brandon McMullen,c Starc b Zampa,60,34,44,2,6,176.47
+Scotland vs Australia,Scotland,4,Richie Berrington,,42,31,48,1,2,135.48
+Scotland vs Australia,Scotland,5,Matthew Cross,c Agar b Maxwell,18,11,13,1,1,163.63
+Scotland vs Australia,Scotland,6,Michael Leask,c Starc b Ellis,5,8,9,0,0,62.50
+Scotland vs Australia,Scotland,7,Chris Greaves,,9,10,15,0,0,90.00
+Scotland vs Australia,Australia,1,Travis Head,c Jones b Sharif,68,49,68,5,4,138.77
+Scotland vs Australia,Australia,2,David Warner,c Berrington b Wheal,1,4,4,0,0,25.00
+Scotland vs Australia,Australia,3,Mitchell Marsh,c sub (C Tear) b Sharif,8,9,17,1,0,88.88
+Scotland vs Australia,Australia,4,Glenn Maxwell, b Watt,11,8,13,0,1,137.50
+Scotland vs Australia,Australia,5,Marcus Stoinis, b Watt,59,29,35,9,2,203.44
+Scotland vs Australia,Australia,6,Tim David,,24,14,19,2,1,171.42
+Scotland vs Australia,Australia,7,Matthew Wade,,4,5,13,0,0,80.00
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+England vs Namibia,England,1,Phil Salt,c †Green b Wiese,11,8,11,2,0,137.50
+England vs Namibia,England,2,Jos Buttler, b Trumpelmann,0,4,6,0,0,0.00
+England vs Namibia,England,3,Jonny Bairstow,c †Green b Scholtz,31,18,27,3,2,172.22
+England vs Namibia,England,4,Harry Brook,,47,20,37,4,2,235.00
+England vs Namibia,England,5,Moeen Ali,c Davin b Trumpelmann,16,6,10,0,2,266.66
+England vs Namibia,England,6,Liam Livingstone,run out (Trumpelmann/†Green),13,4,4,0,2,325.00
+England vs Namibia,Namibia,1,Michael van Lingen,c Brook b Jordan,33,29,41,1,3,113.79
+England vs Namibia,Namibia,2,Nikolaas Davin,retired out ,18,16,26,1,1,112.50
+England vs Namibia,Namibia,3,David Wiese,c Brook b Archer,27,12,17,2,2,225.00
+England vs Namibia,Namibia,4,Gerhard Erasmus,,1,3,5,0,0,33.33
+England vs Namibia,Namibia,5,JJ Smit,,0,1,2,0,0,0.00
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+Uganda vs New Zealand,Uganda,1,Ronak Patel,c †Conway b Santner,2,20,36,0,0,10.00
+Uganda vs New Zealand,Uganda,2,Simon Ssesazi,lbw b Boult,0,1,2,0,0,0.00
+Uganda vs New Zealand,Uganda,3,Robinson Obuya, b Boult,0,1,1,0,0,0.00
+Uganda vs New Zealand,Uganda,4,Alpesh Ramjani,lbw b Southee,0,6,15,0,0,0.00
+Uganda vs New Zealand,Uganda,5,Kenneth Waiswa, b Ferguson,11,18,22,2,0,61.11
+Uganda vs New Zealand,Uganda,6,Riazat Ali Shah,c †Conway b Ravindra,2,13,21,0,0,15.38
+Uganda vs New Zealand,Uganda,7,Dinesh Nakrani,c Phillips b Ravindra,4,13,24,0,0,30.76
+Uganda vs New Zealand,Uganda,8,Brian Masaba,,3,20,33,0,0,15.00
+Uganda vs New Zealand,Uganda,9,Fred Achelam,lbw b Southee,9,13,16,1,0,69.23
+Uganda vs New Zealand,Uganda,10,Juma Miyagi,lbw b Southee,0,1,2,0,0,0.00
+Uganda vs New Zealand,New Zealand,1,Finn Allen,c Achelam b Riazat Ali Shah,9,17,24,1,0,52.94
+Uganda vs New Zealand,New Zealand,2,Devon Conway,,22,15,31,4,0,146.66
+Uganda vs New Zealand,New Zealand,3,Rachin Ravindra,,1,1,6,0,0,100.00
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+Oman vs England,Oman,1,Pratik Athavale,c Salt b Archer,5,3,6,1,0,166.66
+Oman vs England,Oman,2,Kashyap Prajapati,c Livingstone b Wood,9,16,28,0,1,56.25
+Oman vs England,Oman,3,Aqib Ilyas,c Jacks b Archer,8,10,9,1,0,80.00
+Oman vs England,Oman,4,Zeeshan Maqsood,c & b Wood,1,5,7,0,0,20.00
+Oman vs England,Oman,5,Khalid Kail,st †Buttler b Rashid,1,3,6,0,0,33.33
+Oman vs England,Oman,6,Ayaan Khan, b Wood,1,5,11,0,0,20.00
+Oman vs England,Oman,7,Shoaib Khan,c †Buttler b Archer,11,23,31,1,0,47.82
+Oman vs England,Oman,8,Mehran Khan,c Ali b Rashid,0,2,2,0,0,0.00
+Oman vs England,Oman,9,Fayyaz Butt, b Rashid,2,7,7,0,0,28.57
+Oman vs England,Oman,10,Kaleemullah, b Rashid,5,5,8,1,0,100.00
+Oman vs England,England,1,Phil Salt, b Bilal Khan,12,3,2,0,2,400.00
+Oman vs England,England,2,Jos Buttler,,24,8,17,4,1,300.00
+Oman vs England,England,3,Will Jacks,c Prajapati b Kaleemullah,5,7,7,1,0,71.42
+Oman vs England,England,4,Jonny Bairstow,,8,2,6,2,0,400.00
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+West Indies vs New Zealand,West Indies,1,Brandon King,c †Conway b Neesham,9,12,36,0,1,75.00
+West Indies vs New Zealand,West Indies,2,Johnson Charles, b Boult,0,5,3,0,0,0.00
+West Indies vs New Zealand,West Indies,3,Nicholas Pooran,c †Conway b Southee,17,12,12,3,0,141.66
+West Indies vs New Zealand,West Indies,4,Roston Chase,c Ravindra b Ferguson,0,3,3,0,0,0.00
+West Indies vs New Zealand,West Indies,5,Rovman Powell,c †Conway b Southee,1,5,5,0,0,20.00
+West Indies vs New Zealand,West Indies,6,Sherfane Rutherford,,68,39,72,2,6,174.35
+West Indies vs New Zealand,West Indies,7,Akeal Hosein,c Neesham b Santner,15,17,17,0,1,88.23
+West Indies vs New Zealand,West Indies,8,Andre Russell,c Ferguson b Boult,14,7,8,2,1,200.00
+West Indies vs New Zealand,West Indies,9,Romario Shepherd,lbw b Ferguson,13,13,19,0,1,100.00
+West Indies vs New Zealand,West Indies,10,Alzarri Joseph, b Boult,6,6,6,1,0,100.00
+West Indies vs New Zealand,New Zealand,1,Devon Conway,c Chase b Hosein,5,8,13,0,0,62.50
+West Indies vs New Zealand,New Zealand,2,Finn Allen,c Russell b Joseph,26,23,25,3,1,113.04
+West Indies vs New Zealand,New Zealand,3,Rachin Ravindra,c Russell b Motie,10,13,27,0,0,76.92
+West Indies vs New Zealand,New Zealand,4,Kane Williamson,c †Pooran b Motie,1,2,4,0,0,50.00
+West Indies vs New Zealand,New Zealand,5,Daryl Mitchell, b Motie,12,13,18,1,0,92.30
+West Indies vs New Zealand,New Zealand,6,Glenn Phillips,c Powell b Joseph,40,33,40,3,2,121.21
+West Indies vs New Zealand,New Zealand,7,James Neesham,c King b Joseph,10,11,18,0,1,90.90
+West Indies vs New Zealand,New Zealand,8,Mitchell Santner,,21,12,24,0,3,175.00
+West Indies vs New Zealand,New Zealand,9,Tim Southee,c & b Joseph,0,1,1,0,0,0.00
+West Indies vs New Zealand,New Zealand,10,Trent Boult,c Chase b Russell,7,4,5,0,1,175.00
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+P.N.G. vs Afghanistan,Papua New Guinea,1,Tony Ura, b Naveen-ul-Haq,11,18,31,1,0,61.11
+P.N.G. vs Afghanistan,Papua New Guinea,2,Assad Vala,run out (Fazalhaq Farooqi/†Rahmanullah Gurbaz),3,2,9,0,0,150.00
+P.N.G. vs Afghanistan,Papua New Guinea,3,Lega Siaka,c †Rahmanullah Gurbaz b Fazalhaq Farooqi,0,1,1,0,0,0.00
+P.N.G. vs Afghanistan,Papua New Guinea,4,Sese Bau,c †Rahmanullah Gurbaz b Fazalhaq Farooqi,0,1,1,0,0,0.00
+P.N.G. vs Afghanistan,Papua New Guinea,5,Hiri Hiri, b Naveen-ul-Haq,1,3,4,0,0,33.33
+P.N.G. vs Afghanistan,Papua New Guinea,6,Chad Soper,run out (Noor Ahmad/Rashid Khan),9,26,27,0,0,34.61
+P.N.G. vs Afghanistan,Papua New Guinea,7,Kiplin Doriga,lbw b Noor Ahmad,27,32,46,2,0,84.37
+P.N.G. vs Afghanistan,Papua New Guinea,8,Norman Vanua,run out (Rashid Khan),0,7,10,0,0,0.00
+P.N.G. vs Afghanistan,Papua New Guinea,9,Alei Nao,c Rashid Khan b Fazalhaq Farooqi,13,19,25,2,0,68.42
+P.N.G. vs Afghanistan,Papua New Guinea,10,John Kariko,,4,7,10,1,0,57.14
+P.N.G. vs Afghanistan,Afghanistan,1,Rahmanullah Gurbaz, b Nao,11,7,15,1,1,157.14
+P.N.G. vs Afghanistan,Afghanistan,2,Ibrahim Zadran, b Kamea,0,7,9,0,0,0.00
+P.N.G. vs Afghanistan,Afghanistan,3,Gulbadin Naib,,49,36,60,4,2,136.11
+P.N.G. vs Afghanistan,Afghanistan,4,Azmatullah Omarzai, b Vanua,13,18,26,1,0,72.22
+P.N.G. vs Afghanistan,Afghanistan,5,Mohammad Nabi,,16,23,27,1,0,69.56
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+Bangladesh vs Netherlands,Bangladesh,1,Tanzid Hasan,c de Leede b van Meekeren,35,26,45,5,1,134.61
+Bangladesh vs Netherlands,Bangladesh,2,Najmul Hossain Shanto,c Vikramjit Singh b Dutt,1,3,6,0,0,33.33
+Bangladesh vs Netherlands,Bangladesh,3,Litton Das,c Engelbrecht b Dutt,1,2,12,0,0,50.00
+Bangladesh vs Netherlands,Bangladesh,4,Shakib Al Hasan,,64,46,74,9,0,139.13
+Bangladesh vs Netherlands,Bangladesh,5,Towhid Hridoy, b Pringle,9,15,13,0,0,60.00
+Bangladesh vs Netherlands,Bangladesh,6,Mahmudullah,c Engelbrecht b van Meekeren,25,21,22,2,2,119.04
+Bangladesh vs Netherlands,Bangladesh,7,Jaker Ali,,14,7,11,3,0,200.00
+Bangladesh vs Netherlands,Netherlands,1,Michael Levitt,c Towhid Hridoy b Taskin Ahmed,18,16,17,2,1,112.50
+Bangladesh vs Netherlands,Netherlands,2,Max O'Dowd,c & b Tanzim Hasan Sakib,12,16,23,3,0,75.00
+Bangladesh vs Netherlands,Netherlands,3,Vikramjit Singh,st †Litton Das b Mahmudullah,26,16,22,0,3,162.50
+Bangladesh vs Netherlands,Netherlands,4,Sybrand Engelbrecht,c Tanzim Hasan Sakib b Rishad Hossain,33,22,36,3,1,150.00
+Bangladesh vs Netherlands,Netherlands,5,Scott Edwards,c Jaker Ali b Mustafizur Rahman,25,23,28,3,0,108.69
+Bangladesh vs Netherlands,Netherlands,6,Bas de Leede,st †Litton Das b Rishad Hossain,0,2,1,0,0,0.00
+Bangladesh vs Netherlands,Netherlands,7,Logan van Beek,c & b Rishad Hossain,2,3,10,0,0,66.66
+Bangladesh vs Netherlands,Netherlands,8,Tim Pringle, b Taskin Ahmed,1,10,16,0,0,10.00
+Bangladesh vs Netherlands,Netherlands,9,Aryan Dutt,,15,12,11,1,1,125.00
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+South Africa vs Nepal,South Africa,1,Reeza Hendricks,c & b Airee,43,49,64,5,1,87.75
+South Africa vs Nepal,South Africa,2,Quinton de Kock,c & b Airee,10,11,14,1,0,90.90
+South Africa vs Nepal,South Africa,3,Aiden Markram, b Bhurtel,15,22,27,2,0,68.18
+South Africa vs Nepal,South Africa,4,Heinrich Klaasen,c Karan KC b Bhurtel,3,5,6,0,0,60.00
+South Africa vs Nepal,South Africa,5,David Miller,c Lamichhane b Airee,7,10,18,0,0,70.00
+South Africa vs Nepal,South Africa,6,Tristan Stubbs,,27,18,18,2,1,150.00
+South Africa vs Nepal,South Africa,7,Marco Jansen,c Sah b Bhurtel,1,4,9,0,0,25.00
+South Africa vs Nepal,South Africa,8,Kagiso Rabada,st †Aasif Sheikh b Bhurtel,0,1,1,0,0,0.00
+South Africa vs Nepal,Nepal,1,Kushal Bhurtel, b Shamsi,13,21,31,1,1,61.90
+South Africa vs Nepal,Nepal,2,Aasif Sheikh, b Shamsi,42,49,77,4,1,85.71
+South Africa vs Nepal,Nepal,3,Rohit Paudel, b Shamsi,0,2,1,0,0,0.00
+South Africa vs Nepal,Nepal,4,Anil Sah,c Jansen b Markram,27,24,25,3,1,112.50
+South Africa vs Nepal,Nepal,5,Dipendra Singh Airee,c †de Kock b Shamsi,6,11,15,0,0,54.54
+South Africa vs Nepal,Nepal,6,Kushal Malla, b Nortje,1,3,4,0,0,33.33
+South Africa vs Nepal,Nepal,7,Gulsan Jha,run out (†de Kock/Klaasen),6,6,13,1,0,100.00
+South Africa vs Nepal,Nepal,8,Sompal Kami,,8,4,9,0,1,200.00
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+U.S.A. vs India,United States of America,1,Shayan Jahangir,lbw b Arshdeep Singh,0,1,1,0,0,0.00
+U.S.A. vs India,United States of America,2,Steven Taylor, b Patel,24,30,57,0,2,80.00
+U.S.A. vs India,United States of America,3,Andries Gous,c Pandya b Arshdeep Singh,2,5,4,0,0,40.00
+U.S.A. vs India,United States of America,4,Aaron Jones,c Mohammed Siraj b Pandya,11,22,29,0,1,50.00
+U.S.A. vs India,United States of America,5,Nitish Kumar,c Mohammed Siraj b Arshdeep Singh,27,23,33,2,1,117.39
+U.S.A. vs India,United States of America,6,Corey Anderson,c †Pant b Pandya,15,12,25,1,1,125.00
+U.S.A. vs India,United States of America,7,Harmeet Singh,c †Pant b Arshdeep Singh,10,10,16,0,1,100.00
+U.S.A. vs India,United States of America,8,Shadley van Schalkwyk,,11,10,15,1,0,110.00
+U.S.A. vs India,United States of America,9,Jasdeep Singh,run out (†Pant/Mohammed Siraj),2,7,11,0,0,28.57
+U.S.A. vs India,India,1,Rohit Sharma,c Harmeet Singh b Netravalkar,3,6,12,0,0,50.00
+U.S.A. vs India,India,2,Virat Kohli,c †Gous b Netravalkar,0,1,1,0,0,0.00
+U.S.A. vs India,India,3,Rishabh Pant, b Ali Khan,18,20,38,1,1,90.00
+U.S.A. vs India,India,4,Suryakumar Yadav,,50,49,80,2,2,102.04
+U.S.A. vs India,India,5,Shivam Dube,,31,35,51,1,1,88.57
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+Namibia vs Australia,Namibia,1,Michael van Lingen,c Maxwell b Hazlewood,10,10,20,2,0,100.00
+Namibia vs Australia,Namibia,2,Nikolaas Davin,c Maxwell b Hazlewood,2,7,12,0,0,28.57
+Namibia vs Australia,Namibia,3,Jan Frylinck,c Marsh b Cummins,1,6,4,0,0,16.66
+Namibia vs Australia,Namibia,4,Gerhard Erasmus,c Maxwell b Stoinis,36,43,64,4,1,83.72
+Namibia vs Australia,Namibia,5,JJ Smit,lbw b Ellis,3,9,15,0,0,33.33
+Namibia vs Australia,Namibia,6,Zane Green,lbw b Zampa,1,4,6,0,0,25.00
+Namibia vs Australia,Namibia,7,David Wiese,c Hazlewood b Zampa,1,7,7,0,0,14.28
+Namibia vs Australia,Namibia,8,Ruben Trumpelmann,c Maxwell b Zampa,7,7,8,0,1,100.00
+Namibia vs Australia,Namibia,9,Bernard Scholtz, b Zampa,0,2,1,0,0,0.00
+Namibia vs Australia,Namibia,10,Jack Brassell,,2,3,22,0,0,66.66
+Namibia vs Australia,Australia,1,David Warner,c Trumpelmann b Wiese,20,8,7,3,1,250.00
+Namibia vs Australia,Australia,2,Travis Head,,34,17,24,5,2,200.00
+Namibia vs Australia,Australia,3,Mitchell Marsh,,18,9,16,3,1,200.00
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+Canada vs Pakistan,Canada,1,Aaron Johnson, b Naseem Shah,52,44,64,4,4,118.18
+Canada vs Pakistan,Canada,2,Navneet Dhaliwal, b Mohammad Amir,4,7,13,1,0,57.14
+Canada vs Pakistan,Canada,3,Pargat Singh,c Fakhar Zaman b Shaheen Shah Afridi,2,6,9,0,0,33.33
+Canada vs Pakistan,Canada,4,Nicholas Kirton,run out (Imad Wasim),1,6,10,0,0,16.66
+Canada vs Pakistan,Canada,5,Shreyas Movva,c †Mohammad Rizwan b Haris Rauf,2,9,11,0,0,22.22
+Canada vs Pakistan,Canada,6,Ravinderpal Singh,c Fakhar Zaman b Haris Rauf,0,2,1,0,0,0.00
+Canada vs Pakistan,Canada,7,Saad Bin Zafar,c †Mohammad Rizwan b Mohammad Amir,10,21,29,1,0,47.61
+Canada vs Pakistan,Canada,8,Kaleem Sana,,13,14,27,0,1,92.85
+Canada vs Pakistan,Canada,9,Dilon Heyliger,,9,11,12,1,0,81.81
+Canada vs Pakistan,Pakistan,1,Mohammad Rizwan,,53,53,83,2,1,100.00
+Canada vs Pakistan,Pakistan,2,Saim Ayub,c †Movva b Heyliger,6,12,22,0,0,50.00
+Canada vs Pakistan,Pakistan,3,Babar Azam,c †Movva b Heyliger,33,33,43,1,1,100.00
+Canada vs Pakistan,Pakistan,4,Fakhar Zaman,c sub (DS Bajwa) b Gordon,4,6,15,0,0,66.66
+Canada vs Pakistan,Pakistan,5,Usman Khan,,2,1,1,0,0,200.00
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+South Africa vs Bangladesh,South Africa,1,Quinton de Kock, b Tanzim Hasan Sakib,18,11,13,1,2,163.63
+South Africa vs Bangladesh,South Africa,2,Reeza Hendricks,lbw b Tanzim Hasan Sakib,0,1,4,0,0,0.00
+South Africa vs Bangladesh,South Africa,3,Aiden Markram, b Taskin Ahmed,4,8,14,1,0,50.00
+South Africa vs Bangladesh,South Africa,4,Tristan Stubbs,c Shakib Al Hasan b Tanzim Hasan Sakib,0,5,9,0,0,0.00
+South Africa vs Bangladesh,South Africa,5,Heinrich Klaasen, b Taskin Ahmed,46,44,60,2,3,104.54
+South Africa vs Bangladesh,South Africa,6,David Miller, b Rishad Hossain,29,38,62,1,1,76.31
+South Africa vs Bangladesh,South Africa,7,Marco Jansen,,5,5,13,0,0,100.00
+South Africa vs Bangladesh,South Africa,8,Keshav Maharaj,,4,8,7,0,0,50.00
+South Africa vs Bangladesh,Bangladesh,1,Tanzid Hasan,c †de Kock b Rabada,9,9,8,2,0,100.00
+South Africa vs Bangladesh,Bangladesh,2,Najmul Hossain Shanto,c Markram b Nortje,14,23,44,0,1,60.86
+South Africa vs Bangladesh,Bangladesh,3,Litton Das,c Miller b Maharaj,9,13,18,1,0,69.23
+South Africa vs Bangladesh,Bangladesh,4,Shakib Al Hasan,c Markram b Nortje,3,4,6,0,0,75.00
+South Africa vs Bangladesh,Bangladesh,5,Towhid Hridoy,lbw b Rabada,37,34,46,2,2,108.82
+South Africa vs Bangladesh,Bangladesh,6,Mahmudullah,c Markram b Maharaj,20,27,54,2,0,74.07
+South Africa vs Bangladesh,Bangladesh,7,Jaker Ali,c Markram b Maharaj,8,9,11,0,0,88.88
+South Africa vs Bangladesh,Bangladesh,8,Rishad Hossain,,0,1,5,0,0,0.00
+South Africa vs Bangladesh,Bangladesh,9,Taskin Ahmed,,1,1,1,0,0,100.00
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+Oman vs Scotland,Oman,1,Pratik Athavale,c McMullen b Greaves,54,40,65,5,2,135.00
+Oman vs Scotland,Oman,2,Naseem Khushi,c Watt b Sole,10,9,11,0,1,111.11
+Oman vs Scotland,Oman,3,Aqib Ilyas,lbw b Sharif,16,6,11,2,1,266.66
+Oman vs Scotland,Oman,4,Zeeshan Maqsood,c †Cross b Watt,3,4,6,0,0,75.00
+Oman vs Scotland,Oman,5,Khalid Kail,run out (Sole/Watt),5,7,8,0,0,71.42
+Oman vs Scotland,Oman,6,Ayaan Khan,,41,39,44,4,0,105.12
+Oman vs Scotland,Oman,7,Mehran Khan,c †Cross b Sharif,13,10,10,2,0,130.00
+Oman vs Scotland,Oman,8,Rafiullah,c Sharif b Wheal,0,3,2,0,0,0.00
+Oman vs Scotland,Oman,9,Shakeel Ahmed,,3,2,5,0,0,150.00
+Oman vs Scotland,Scotland,1,George Munsey,c Shakeel Ahmed b Mehran Khan,41,20,35,2,4,205.00
+Oman vs Scotland,Scotland,2,Michael Jones,c Mehran Khan b Bilal Khan,16,13,12,1,2,123.07
+Oman vs Scotland,Scotland,3,Brandon McMullen,,61,31,42,9,2,196.77
+Oman vs Scotland,Scotland,4,Richie Berrington, b Aqib Ilyas,13,7,7,1,1,185.71
+Oman vs Scotland,Scotland,5,Matthew Cross,,15,8,12,0,2,187.50
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+India vs Pakistan,India,1,Rohit Sharma,c Haris Rauf b Shaheen Shah Afridi,13,12,15,1,1,108.33
+India vs Pakistan,India,2,Virat Kohli,c Usman Khan b Naseem Shah,4,3,7,1,0,133.33
+India vs Pakistan,India,3,Rishabh Pant,c Babar Azam b Mohammad Amir,42,31,65,6,0,135.48
+India vs Pakistan,India,4,Axar Patel, b Naseem Shah,20,18,26,2,1,111.11
+India vs Pakistan,India,5,Suryakumar Yadav,c Mohammad Amir b Haris Rauf,7,8,16,1,0,87.50
+India vs Pakistan,India,6,Shivam Dube,c & b Naseem Shah,3,9,7,0,0,33.33
+India vs Pakistan,India,7,Hardik Pandya,c Iftikhar Ahmed b Haris Rauf,7,12,24,1,0,58.33
+India vs Pakistan,India,8,Ravindra Jadeja,c Imad Wasim b Mohammad Amir,0,1,1,0,0,0.00
+India vs Pakistan,India,9,Arshdeep Singh,run out (Babar Azam/†Mohammad Rizwan),9,13,26,1,0,69.23
+India vs Pakistan,India,10,Jasprit Bumrah,c Imad Wasim b Haris Rauf,0,1,1,0,0,0.00
+India vs Pakistan,Pakistan,1,Mohammad Rizwan, b Bumrah,31,44,67,1,1,70.45
+India vs Pakistan,Pakistan,2,Babar Azam,c Yadav b Bumrah,13,10,23,2,0,130.00
+India vs Pakistan,Pakistan,3,Usman Khan,lbw b Patel,13,15,23,1,0,86.66
+India vs Pakistan,Pakistan,4,Fakhar Zaman,c †Pant b Pandya,13,8,8,1,1,162.50
+India vs Pakistan,Pakistan,5,Imad Wasim,c †Pant b Arshdeep Singh,15,23,40,1,0,65.21
+India vs Pakistan,Pakistan,6,Shadab Khan,c †Pant b Pandya,4,7,10,0,0,57.14
+India vs Pakistan,Pakistan,7,Iftikhar Ahmed,c Arshdeep Singh b Bumrah,5,9,14,0,0,55.55
+India vs Pakistan,Pakistan,8,Shaheen Shah Afridi,,0,1,4,0,0,0.00
+India vs Pakistan,Pakistan,9,Naseem Shah,,10,4,3,2,0,250.00
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+West Indies vs Uganda,West Indies,1,Brandon King, b Ramjani,13,8,20,2,0,162.50
+West Indies vs Uganda,West Indies,2,Johnson Charles,c Ramjani b Nakrani,44,42,53,4,2,104.76
+West Indies vs Uganda,West Indies,3,Nicholas Pooran,c & b Masaba,22,17,17,0,3,129.41
+West Indies vs Uganda,West Indies,4,Rovman Powell,c Obuya b Masaba,23,18,26,1,1,127.77
+West Indies vs Uganda,West Indies,5,Sherfane Rutherford, b Kyewuta,22,16,23,2,1,137.50
+West Indies vs Uganda,West Indies,6,Andre Russell,,30,17,23,6,0,176.47
+West Indies vs Uganda,West Indies,7,Romario Shepherd,,5,5,13,0,0,100.00
+West Indies vs Uganda,Uganda,1,Roger Mukasa,lbw b Hosein,0,2,1,0,0,0.00
+West Indies vs Uganda,Uganda,2,Simon Ssesazi,c Joseph b Shepherd,4,3,6,1,0,133.33
+West Indies vs Uganda,Uganda,3,Robinson Obuya, b Russell,6,8,12,1,0,75.00
+West Indies vs Uganda,Uganda,4,Alpesh Ramjani,lbw b Hosein,5,6,5,1,0,83.33
+West Indies vs Uganda,Uganda,5,Kenneth Waiswa,lbw b Hosein,1,10,20,0,0,10.00
+West Indies vs Uganda,Uganda,6,Riazat Ali Shah, b Hosein,3,8,5,0,0,37.50
+West Indies vs Uganda,Uganda,7,Dinesh Nakrani, b Hosein,0,2,7,0,0,0.00
+West Indies vs Uganda,Uganda,8,Brian Masaba,c †Pooran b Joseph,1,4,8,0,0,25.00
+West Indies vs Uganda,Uganda,9,Juma Miyagi,,13,20,20,0,0,65.00
+West Indies vs Uganda,Uganda,10,Cosmas Kyewuta,lbw b Motie,1,6,10,0,0,16.66
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+Netherlands vs South Africa,Netherlands,1,Michael Levitt,c †de Kock b Jansen,0,3,4,0,0,0.00
+Netherlands vs South Africa,Netherlands,2,Max O'Dowd,c Jansen b Baartman,2,6,19,0,0,33.33
+Netherlands vs South Africa,Netherlands,3,Vikramjit Singh, b Jansen,12,17,19,1,0,70.58
+Netherlands vs South Africa,Netherlands,4,Sybrand Engelbrecht,c Jansen b Baartman,40,45,63,2,1,88.88
+Netherlands vs South Africa,Netherlands,5,Bas de Leede,c Miller b Nortje,6,16,17,0,0,37.50
+Netherlands vs South Africa,Netherlands,6,Scott Edwards,run out (Markram),10,9,8,0,1,111.11
+Netherlands vs South Africa,Netherlands,7,Teja Nidamanuru,c Klaasen b Nortje,0,1,2,0,0,0.00
+Netherlands vs South Africa,Netherlands,8,Logan van Beek,c Nortje b Baartman,23,22,34,3,0,104.54
+Netherlands vs South Africa,Netherlands,9,Tim Pringle,c Markram b Baartman,0,2,1,0,0,0.00
+Netherlands vs South Africa,Netherlands,10,Paul van Meekeren,,1,1,2,0,0,100.00
+Netherlands vs South Africa,South Africa,1,Reeza Hendricks, b van Beek,3,10,8,0,0,30.00
+Netherlands vs South Africa,South Africa,2,Quinton de Kock,run out (van Meekeren/O'Dowd),0,0,1,0,0,-
+Netherlands vs South Africa,South Africa,3,Aiden Markram,c †Edwards b Kingma,0,3,13,0,0,0.00
+Netherlands vs South Africa,South Africa,4,Tristan Stubbs,c van Beek b de Leede,33,37,70,1,1,89.18
+Netherlands vs South Africa,South Africa,5,Heinrich Klaasen,c Pringle b Kingma,4,7,8,0,0,57.14
+Netherlands vs South Africa,South Africa,6,David Miller,,59,51,67,3,4,115.68
+Netherlands vs South Africa,South Africa,7,Marco Jansen, b van Beek,3,5,8,0,0,60.00
+Netherlands vs South Africa,South Africa,8,Keshav Maharaj,,0,1,4,0,0,0.00
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+Canada vs Ireland,Canada,1,Aaron Johnson,c Campher b Young,14,13,23,3,0,107.69
+Canada vs Ireland,Canada,2,Navneet Dhaliwal,c Dockrell b Adair,6,10,10,1,0,60.00
+Canada vs Ireland,Canada,3,Pargat Singh,c Little b Young,18,14,21,2,0,128.57
+Canada vs Ireland,Canada,4,Dilpreet Bajwa,c & b Delany,7,9,15,1,0,77.77
+Canada vs Ireland,Canada,5,Nicholas Kirton,c Balbirnie b McCarthy,49,35,56,3,2,140.00
+Canada vs Ireland,Canada,6,Shreyas Movva,run out (McCarthy/†Tucker),37,36,56,3,0,102.77
+Canada vs Ireland,Canada,7,Dilon Heyliger,c Little b McCarthy,0,2,1,0,0,0.00
+Canada vs Ireland,Canada,8,Saad Bin Zafar,,1,1,4,0,0,100.00
+Canada vs Ireland,Ireland,1,Andy Balbirnie,c & b Junaid Siddiqui,17,19,29,1,0,89.47
+Canada vs Ireland,Ireland,2,Paul Stirling,c †Movva b Gordon,9,17,25,1,0,52.94
+Canada vs Ireland,Ireland,3,Lorcan Tucker,run out (Kirton/Saad Bin Zafar),10,15,21,0,0,66.66
+Canada vs Ireland,Ireland,4,Harry Tector, b Saad Bin Zafar,7,5,6,0,0,140.00
+Canada vs Ireland,Ireland,5,Curtis Campher,c Johnson b Heyliger,4,7,16,0,0,57.14
+Canada vs Ireland,Ireland,6,George Dockrell,,30,23,47,2,1,130.43
+Canada vs Ireland,Ireland,7,Gareth Delany,c †Movva b Heyliger,3,7,5,0,0,42.85
+Canada vs Ireland,Ireland,8,Mark Adair,c & b Gordon,34,24,33,3,1,141.66
+Canada vs Ireland,Ireland,9,Barry McCarthy,,2,3,2,0,0,66.66
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+Sri Lanka vs Bangladesh,Sri Lanka,1,Pathum Nissanka,c Najmul Hossain Shanto b Mustafizur Rahman,47,28,40,7,1,167.85
+Sri Lanka vs Bangladesh,Sri Lanka,2,Kusal Mendis, b Taskin Ahmed,10,8,11,2,0,125.00
+Sri Lanka vs Bangladesh,Sri Lanka,3,Kamindu Mendis,c Tanzim Hasan Sakib b Mustafizur Rahman,4,5,11,1,0,80.00
+Sri Lanka vs Bangladesh,Sri Lanka,4,Dhananjaya de Silva,st †Litton Das b Rishad Hossain,21,26,51,1,0,80.76
+Sri Lanka vs Bangladesh,Sri Lanka,5,Charith Asalanka,c Shakib Al Hasan b Rishad Hossain,19,21,23,0,1,90.47
+Sri Lanka vs Bangladesh,Sri Lanka,6,Wanindu Hasaranga,c Soumya Sarkar b Rishad Hossain,0,1,1,0,0,0.00
+Sri Lanka vs Bangladesh,Sri Lanka,7,Angelo Mathews,c Mustafizur Rahman b Tanzim Hasan Sakib,16,19,27,1,0,84.21
+Sri Lanka vs Bangladesh,Sri Lanka,8,Dasun Shanaka,c †Litton Das b Taskin Ahmed,3,7,8,0,0,42.85
+Sri Lanka vs Bangladesh,Sri Lanka,9,Maheesh Theekshana,c Tanzim Hasan Sakib b Mustafizur Rahman,0,3,4,0,0,0.00
+Sri Lanka vs Bangladesh,Sri Lanka,10,Matheesha Pathirana,,0,1,7,0,0,0.00
+Sri Lanka vs Bangladesh,Bangladesh,1,Tanzid Hasan, b Thushara,3,6,8,0,0,50.00
+Sri Lanka vs Bangladesh,Bangladesh,2,Soumya Sarkar,c Hasaranga b de Silva,0,2,2,0,0,0.00
+Sri Lanka vs Bangladesh,Bangladesh,3,Litton Das,lbw b Hasaranga,36,38,63,2,1,94.73
+Sri Lanka vs Bangladesh,Bangladesh,4,Najmul Hossain Shanto,c Asalanka b Thushara,7,13,16,0,0,53.84
+Sri Lanka vs Bangladesh,Bangladesh,5,Towhid Hridoy,lbw b Hasaranga,40,20,28,1,4,200.00
+Sri Lanka vs Bangladesh,Bangladesh,6,Shakib Al Hasan,c Theekshana b Pathirana,8,14,19,0,0,57.14
+Sri Lanka vs Bangladesh,Bangladesh,7,Mahmudullah,,16,13,29,0,1,123.07
+Sri Lanka vs Bangladesh,Bangladesh,8,Rishad Hossain, b Thushara,1,3,6,0,0,33.33
+Sri Lanka vs Bangladesh,Bangladesh,9,Taskin Ahmed,lbw b Thushara,0,1,1,0,0,0.00
+Sri Lanka vs Bangladesh,Bangladesh,10,Tanzim Hasan Sakib,,1,4,10,0,0,25.00
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+Afghanistan vs New Zealand,Afghanistan,1,Rahmanullah Gurbaz, b Boult,80,56,92,5,5,142.85
+Afghanistan vs New Zealand,Afghanistan,2,Ibrahim Zadran, b Henry,44,41,66,3,2,107.31
+Afghanistan vs New Zealand,Afghanistan,3,Azmatullah Omarzai,c Ferguson b Henry,22,13,9,1,2,169.23
+Afghanistan vs New Zealand,Afghanistan,4,Mohammad Nabi,c Williamson b Ferguson,0,1,3,0,0,0.00
+Afghanistan vs New Zealand,Afghanistan,5,Rashid Khan,run out (†Conway/Boult),6,5,8,1,0,120.00
+Afghanistan vs New Zealand,Afghanistan,6,Karim Janat,,1,1,6,0,0,100.00
+Afghanistan vs New Zealand,Afghanistan,7,Gulbadin Naib,c Phillips b Boult,0,2,3,0,0,0.00
+Afghanistan vs New Zealand,Afghanistan,8,Najibullah Zadran,,1,1,1,0,0,100.00
+Afghanistan vs New Zealand,New Zealand,1,Finn Allen, b Fazalhaq Farooqi,0,1,1,0,0,0.00
+Afghanistan vs New Zealand,New Zealand,2,Devon Conway,c Ibrahim Zadran b Fazalhaq Farooqi,8,10,16,1,0,80.00
+Afghanistan vs New Zealand,New Zealand,3,Kane Williamson,c Gulbadin Naib b Rashid Khan,9,13,38,1,0,69.23
+Afghanistan vs New Zealand,New Zealand,4,Daryl Mitchell,c †Rahmanullah Gurbaz b Fazalhaq Farooqi,5,5,10,1,0,100.00
+Afghanistan vs New Zealand,New Zealand,5,Glenn Phillips,c Rashid Khan b Mohammad Nabi,18,18,28,2,0,100.00
+Afghanistan vs New Zealand,New Zealand,6,Mark Chapman, b Rashid Khan,4,7,8,0,0,57.14
+Afghanistan vs New Zealand,New Zealand,7,Michael Bracewell,lbw b Rashid Khan,0,1,2,0,0,0.00
+Afghanistan vs New Zealand,New Zealand,8,Mitchell Santner, b Mohammad Nabi,4,8,12,0,0,50.00
+Afghanistan vs New Zealand,New Zealand,9,Matt Henry,c Karim Janat b Fazalhaq Farooqi,12,17,21,0,1,70.58
+Afghanistan vs New Zealand,New Zealand,10,Lockie Ferguson,c & b Rashid Khan,2,5,3,0,0,40.00
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+Australia vs England,Australia,1,Travis Head, b Archer,34,18,25,2,3,188.88
+Australia vs England,Australia,2,David Warner, b Ali,39,16,22,2,4,243.75
+Australia vs England,Australia,3,Mitchell Marsh,st †Buttler b Livingstone,35,25,43,2,2,140.00
+Australia vs England,Australia,4,Glenn Maxwell,c Salt b Rashid,28,25,44,3,1,112.00
+Australia vs England,Australia,5,Marcus Stoinis,c Brook b Jordan,30,17,30,2,2,176.47
+Australia vs England,Australia,6,Tim David,c Livingstone b Jordan,11,8,10,0,1,137.50
+Australia vs England,Australia,7,Matthew Wade,,17,10,21,3,0,170.00
+Australia vs England,Australia,8,Pat Cummins,run out (†Buttler/Jordan),0,1,1,0,0,0.00
+Australia vs England,Australia,9,Mitchell Starc,,0,0,3,0,0,-
+Australia vs England,England,1,Phil Salt, b Zampa,37,23,36,4,2,160.86
+Australia vs England,England,2,Jos Buttler,c Cummins b Zampa,42,28,47,5,2,150.00
+Australia vs England,England,3,Will Jacks,c Starc b Stoinis,10,10,15,1,0,100.00
+Australia vs England,England,4,Jonny Bairstow,c Maxwell b Hazlewood,7,13,17,0,0,53.84
+Australia vs England,England,5,Moeen Ali,c Warner b Cummins,25,15,21,0,3,166.66
+Australia vs England,England,6,Harry Brook,,20,16,28,2,0,125.00
+Australia vs England,England,7,Liam Livingstone,c Starc b Cummins,15,12,13,0,1,125.00
+Australia vs England,England,8,Chris Jordan,,1,3,5,0,0,33.33
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+U.S.A. vs Pakistan,Pakistan,1,Mohammad Rizwan,c Taylor b Netravalkar,9,8,5,0,1,112.50
+U.S.A. vs Pakistan,Pakistan,2,Babar Azam,lbw b Jasdeep Singh,44,43,76,3,2,102.32
+U.S.A. vs Pakistan,Pakistan,3,Usman Khan,c Kumar b Kenjige,3,3,5,0,0,100.00
+U.S.A. vs Pakistan,Pakistan,4,Fakhar Zaman,c Taylor b Ali Khan,11,7,11,0,1,157.14
+U.S.A. vs Pakistan,Pakistan,5,Shadab Khan,c Netravalkar b Kenjige,40,25,35,1,3,160.00
+U.S.A. vs Pakistan,Pakistan,6,Azam Khan,lbw b Kenjige,0,1,2,0,0,0.00
+U.S.A. vs Pakistan,Pakistan,7,Iftikhar Ahmed,lbw b Netravalkar,18,14,27,3,0,128.57
+U.S.A. vs Pakistan,Pakistan,8,Shaheen Shah Afridi,,23,16,25,1,2,143.75
+U.S.A. vs Pakistan,Pakistan,9,Haris Rauf,,3,3,11,0,0,100.00
+U.S.A. vs Pakistan,United States of America,1,Steven Taylor,c Mohammad Rizwan b Naseem Shah,12,16,-,1,0,75.00
+U.S.A. vs Pakistan,United States of America,2,Monank Patel,c Mohammad Rizwan b Mohammad Amir,50,38,-,7,1,131.57
+U.S.A. vs Pakistan,United States of America,3,Andries Gous, b Haris Rauf,35,26,-,5,1,134.61
+U.S.A. vs Pakistan,United States of America,4,Aaron Jones,,36,26,-,2,2,138.46
+U.S.A. vs Pakistan,United States of America,5,Nitish Kumar,,14,14,-,1,0,100.00
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+Namibia vs Scotland,Namibia,1,JP Kotze,c McMullen b Wheal,0,3,2,0,0,0.00
+Namibia vs Scotland,Namibia,2,Nikolaas Davin,c Currie b Sole,20,12,24,4,0,166.66
+Namibia vs Scotland,Namibia,3,Jan Frylinck, b Currie,12,14,13,2,0,85.71
+Namibia vs Scotland,Namibia,4,Gerhard Erasmus,st †Cross b Leask,52,31,44,5,2,167.74
+Namibia vs Scotland,Namibia,5,Malan Kruger,c Jones b Greaves,2,8,13,0,0,25.00
+Namibia vs Scotland,Namibia,6,Zane Green,c Jones b Wheal,28,27,39,1,1,103.70
+Namibia vs Scotland,Namibia,7,David Wiese,c Watt b Wheal,14,13,14,0,1,107.69
+Namibia vs Scotland,Namibia,8,Ruben Trumpelmann,c Wheal b Currie,1,2,5,0,0,50.00
+Namibia vs Scotland,Namibia,9,JJ Smit,run out (Jones/Wheal),11,8,9,0,1,137.50
+Namibia vs Scotland,Namibia,10,Bernard Scholtz,,6,4,9,0,0,150.00
+Namibia vs Scotland,Scotland,1,George Munsey,c Wiese b Lungameni,7,15,21,0,0,46.66
+Namibia vs Scotland,Scotland,2,Michael Jones,c †Green b Erasmus,26,20,38,3,1,130.00
+Namibia vs Scotland,Scotland,3,Brandon McMullen,st †Green b Erasmus,19,17,25,2,0,111.76
+Namibia vs Scotland,Scotland,4,Richie Berrington,,47,35,48,2,2,134.28
+Namibia vs Scotland,Scotland,5,Matthew Cross,lbw b Scholtz,3,5,4,0,0,60.00
+Namibia vs Scotland,Scotland,6,Michael Leask,c Wiese b Trumpelmann,35,17,29,0,4,205.88
+Namibia vs Scotland,Scotland,7,Chris Greaves,,4,3,4,0,0,133.33
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+P.N.G. vs Uganda,Papua New Guinea,1,Assad Vala,lbw b Ramjani,0,2,2,0,0,0.00
+P.N.G. vs Uganda,Papua New Guinea,2,Tony Ura,c Mukasa b Kyewuta,2,6,21,0,0,33.33
+P.N.G. vs Uganda,Papua New Guinea,3,Sese Bau,c Mukasa b Miyagi,5,9,11,1,0,55.55
+P.N.G. vs Uganda,Papua New Guinea,4,Lega Siaka,run out (Kyewuta/†Ssesazi),12,17,19,1,0,70.58
+P.N.G. vs Uganda,Papua New Guinea,5,Hiri Hiri,lbw b Nsubuga,15,19,32,2,0,78.94
+P.N.G. vs Uganda,Papua New Guinea,6,Charles Amini, b Nsubuga,5,14,10,0,0,35.71
+P.N.G. vs Uganda,Papua New Guinea,7,Kiplin Doriga,lbw b Ramjani,12,20,18,0,1,60.00
+P.N.G. vs Uganda,Papua New Guinea,8,Chad Soper, b Masaba,4,11,15,0,0,36.36
+P.N.G. vs Uganda,Papua New Guinea,9,Norman Vanua,c †Ssesazi b Kyewuta,5,10,17,0,0,50.00
+P.N.G. vs Uganda,Papua New Guinea,10,Alei Nao, b Miyagi,5,6,10,0,0,83.33
+P.N.G. vs Uganda,Uganda,1,Roger Mukasa,lbw b Nao,0,3,2,0,0,0.00
+P.N.G. vs Uganda,Uganda,2,Simon Ssesazi,lbw b Nao,1,3,13,0,0,33.33
+P.N.G. vs Uganda,Uganda,3,Robinson Obuya,c Vala b Vanua,1,2,4,0,0,50.00
+P.N.G. vs Uganda,Uganda,4,Riazat Ali Shah,c Kariko b Vanua,33,56,68,1,0,58.92
+P.N.G. vs Uganda,Uganda,5,Alpesh Ramjani, b Soper,8,10,15,1,0,80.00
+P.N.G. vs Uganda,Uganda,6,Dinesh Nakrani,c & b Vala,0,3,2,0,0,0.00
+P.N.G. vs Uganda,Uganda,7,Juma Miyagi,run out (Vanua/Nao),13,16,25,0,0,81.25
+P.N.G. vs Uganda,Uganda,8,Kenneth Waiswa,,7,16,19,0,0,43.75
+P.N.G. vs Uganda,Uganda,9,Brian Masaba,,0,1,3,0,0,0.00
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+Scotland vs England,Scotland,1,George Munsey,,41,31,46,4,2,132.25
+Scotland vs England,Scotland,2,Michael Jones,,45,30,46,4,2,150.00
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+Ireland vs India,Ireland,1,Andy Balbirnie, b Arshdeep Singh,5,10,-,1,0,50.00
+Ireland vs India,Ireland,2,Paul Stirling,c †Pant b Arshdeep Singh,2,6,-,0,0,33.33
+Ireland vs India,Ireland,3,Lorcan Tucker, b Pandya,10,13,-,2,0,76.92
+Ireland vs India,Ireland,4,Harry Tector,c Kohli b Bumrah,4,16,-,0,0,25.00
+Ireland vs India,Ireland,5,Curtis Campher,c †Pant b Pandya,12,8,-,1,1,150.00
+Ireland vs India,Ireland,6,George Dockrell,c Bumrah b Mohammed Siraj,3,5,-,0,0,60.00
+Ireland vs India,Ireland,7,Gareth Delany,run out (Mohammed Siraj/†Pant),26,14,-,2,2,185.71
+Ireland vs India,Ireland,8,Mark Adair,c Dube b Pandya,3,2,-,0,0,150.00
+Ireland vs India,Ireland,9,Barry McCarthy,c & b Patel,0,6,-,0,0,0.00
+Ireland vs India,Ireland,10,Josh Little, b Bumrah,14,13,-,2,0,107.69
+Ireland vs India,India,1,Rohit Sharma,,52,37,48,4,3,140.54
+Ireland vs India,India,2,Virat Kohli,c White b Adair,1,5,13,0,0,20.00
+Ireland vs India,India,3,Rishabh Pant,,36,26,46,3,2,138.46
+Ireland vs India,India,4,Suryakumar Yadav,c Dockrell b White,2,4,9,0,0,50.00
+Ireland vs India,India,5,Shivam Dube,,0,2,3,0,0,0.00
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+Australia vs Oman,Australia,1,David Warner,c Shoaib Khan b Kaleemullah,56,51,91,6,1,109.80
+Australia vs Oman,Australia,2,Travis Head,c Khalid Kail b Bilal Khan,12,10,13,2,0,120.00
+Australia vs Oman,Australia,3,Mitchell Marsh,c Shoaib Khan b Mehran Khan,14,21,25,2,0,66.66
+Australia vs Oman,Australia,4,Glenn Maxwell,c Aqib Ilyas b Mehran Khan,0,1,1,0,0,0.00
+Australia vs Oman,Australia,5,Marcus Stoinis,,67,36,55,2,6,186.11
+Australia vs Oman,Australia,6,Tim David,run out (Ayaan Khan/†Athavale),9,4,5,2,0,225.00
+Australia vs Oman,Oman,1,Kashyap Prajapati,lbw b Ellis,7,16,27,1,0,43.75
+Australia vs Oman,Oman,2,Pratik Athavale,lbw b Starc,0,1,3,0,0,0.00
+Australia vs Oman,Oman,3,Aqib Ilyas,c †Wade b Stoinis,18,18,29,2,1,100.00
+Australia vs Oman,Oman,4,Zeeshan Maqsood,c †Wade b Stoinis,1,7,12,0,0,14.28
+Australia vs Oman,Oman,5,Khalid Kail,c Maxwell b Starc,8,12,24,1,0,66.66
+Australia vs Oman,Oman,6,Ayaan Khan,c Hazlewood b Zampa,36,30,42,2,2,120.00
+Australia vs Oman,Oman,7,Shoaib Khan, b Zampa,0,4,7,0,0,0.00
+Australia vs Oman,Oman,8,Mehran Khan,c David b Stoinis,27,16,34,1,2,168.75
+Australia vs Oman,Oman,9,Shakeel Ahmed,c Warner b Ellis,11,10,21,1,0,110.00
+Australia vs Oman,Oman,10,Kaleemullah,,6,4,6,0,0,150.00
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+Afghanistan vs Uganda,Afghanistan,1,Rahmanullah Gurbaz,c Riazat Ali Shah b Ramjani,76,45,70,4,4,168.88
+Afghanistan vs Uganda,Afghanistan,2,Ibrahim Zadran, b Masaba,70,46,66,9,1,152.17
+Afghanistan vs Uganda,Afghanistan,3,Najibullah Zadran,c Nakrani b Masaba,2,3,8,0,0,66.66
+Afghanistan vs Uganda,Afghanistan,4,Mohammad Nabi,,14,16,23,0,0,87.50
+Afghanistan vs Uganda,Afghanistan,5,Gulbadin Naib,c Masaba b Kyewuta,4,5,6,0,0,80.00
+Afghanistan vs Uganda,Afghanistan,6,Azmatullah Omarzai,c Ramjani b Kyewuta,5,5,9,0,0,100.00
+Afghanistan vs Uganda,Afghanistan,7,Rashid Khan,,2,1,1,0,0,200.00
+Afghanistan vs Uganda,Uganda,1,Ronak Patel, b Fazalhaq Farooqi,4,2,1,1,0,200.00
+Afghanistan vs Uganda,Uganda,2,Simon Ssesazi,c Fazalhaq Farooqi b Mujeeb Ur Rahman,4,4,9,1,0,100.00
+Afghanistan vs Uganda,Uganda,3,Roger Mukasa,lbw b Fazalhaq Farooqi,0,1,1,0,0,0.00
+Afghanistan vs Uganda,Uganda,4,Riazat Ali Shah, b Fazalhaq Farooqi,11,34,56,0,0,32.35
+Afghanistan vs Uganda,Uganda,5,Dinesh Nakrani, b Naveen-ul-Haq,6,8,11,1,0,75.00
+Afghanistan vs Uganda,Uganda,6,Alpesh Ramjani,c Gulbadin Naib b Naveen-ul-Haq,0,2,1,0,0,0.00
+Afghanistan vs Uganda,Uganda,7,Robinson Obuya,c †Rahmanullah Gurbaz b Fazalhaq Farooqi,14,25,42,0,1,56.00
+Afghanistan vs Uganda,Uganda,8,Brian Masaba,c †Rahmanullah Gurbaz b Fazalhaq Farooqi,0,1,1,0,0,0.00
+Afghanistan vs Uganda,Uganda,9,Bilal Hassan,lbw b Rashid Khan,8,16,18,1,0,50.00
+Afghanistan vs Uganda,Uganda,10,Cosmas Kyewuta,,2,2,15,0,0,100.00
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+Nepal vs Netherlands,Nepal,1,Kushal Bhurtel,lbw b van Beek,7,10,14,1,0,70.00
+Nepal vs Netherlands,Nepal,2,Aasif Sheikh,c Kingma b Pringle,4,8,8,1,0,50.00
+Nepal vs Netherlands,Nepal,3,Anil Sah,c van Beek b Pringle,11,12,29,2,0,91.66
+Nepal vs Netherlands,Nepal,4,Rohit Paudel,c O'Dowd b Pringle,35,37,59,5,0,94.59
+Nepal vs Netherlands,Nepal,5,Kushal Malla,c O'Dowd b van Meekeren,9,9,8,1,0,100.00
+Nepal vs Netherlands,Nepal,6,Dipendra Singh Airee,c van Beek b de Leede,1,6,4,0,0,16.66
+Nepal vs Netherlands,Nepal,7,Sompal Kami, b van Meekeren,0,5,10,0,0,0.00
+Nepal vs Netherlands,Nepal,8,Gulsan Jha, b van Beek,14,15,28,0,1,93.33
+Nepal vs Netherlands,Nepal,9,Karan KC,c Kingma b de Leede,17,12,13,0,2,141.66
+Nepal vs Netherlands,Nepal,10,Sagar Dhakal,,0,1,3,0,0,0.00
+Nepal vs Netherlands,Netherlands,1,Michael Levitt,c Airee b Sompal Kami,1,3,6,0,0,33.33
+Nepal vs Netherlands,Netherlands,2,Max O'Dowd,,54,48,86,4,1,112.50
+Nepal vs Netherlands,Netherlands,3,Vikramjit Singh,lbw b Airee,22,28,32,4,0,78.57
+Nepal vs Netherlands,Netherlands,4,Sybrand Engelbrecht,run out (Sompal Kami),14,16,18,1,0,87.50
+Nepal vs Netherlands,Netherlands,5,Scott Edwards, b Bohara,5,8,11,0,0,62.50
+Nepal vs Netherlands,Netherlands,6,Bas de Leede,,11,10,13,1,0,110.00
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+Sri Lanka vs South Africa,Sri Lanka,1,Pathum Nissanka,c Klaasen b Baartman,3,8,15,0,0,37.50
+Sri Lanka vs South Africa,Sri Lanka,2,Kusal Mendis,c Stubbs b Nortje,19,30,46,1,0,63.33
+Sri Lanka vs South Africa,Sri Lanka,3,Kamindu Mendis,c Hendricks b Nortje,11,15,19,1,0,73.33
+Sri Lanka vs South Africa,Sri Lanka,4,Wanindu Hasaranga,st †de Kock b Maharaj,0,2,2,0,0,0.00
+Sri Lanka vs South Africa,Sri Lanka,5,Sadeera Samarawickrama, b Maharaj,0,1,1,0,0,0.00
+Sri Lanka vs South Africa,Sri Lanka,6,Charith Asalanka,c Hendricks b Nortje,6,9,11,0,0,66.66
+Sri Lanka vs South Africa,Sri Lanka,7,Angelo Mathews,c Baartman b Nortje,16,16,24,0,2,100.00
+Sri Lanka vs South Africa,Sri Lanka,8,Dasun Shanaka, b Rabada,9,10,13,0,1,90.00
+Sri Lanka vs South Africa,Sri Lanka,9,Maheesh Theekshana,,7,16,20,1,0,43.75
+Sri Lanka vs South Africa,Sri Lanka,10,Matheesha Pathirana,c Markram b Rabada,0,4,8,0,0,0.00
+Sri Lanka vs South Africa,South Africa,1,Quinton de Kock,c & b Hasaranga,20,27,54,0,1,74.07
+Sri Lanka vs South Africa,South Africa,2,Reeza Hendricks,c PHKD Mendis b Thushara,4,2,8,1,0,200.00
+Sri Lanka vs South Africa,South Africa,3,Aiden Markram,c PHKD Mendis b Shanaka,12,14,14,0,1,85.71
+Sri Lanka vs South Africa,South Africa,4,Tristan Stubbs,c Asalanka b Hasaranga,13,28,39,0,0,46.42
+Sri Lanka vs South Africa,South Africa,5,Heinrich Klaasen,,19,22,22,1,1,86.36
+Sri Lanka vs South Africa,South Africa,6,David Miller,,6,6,13,1,0,100.00
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+U.S.A. vs Canada,Canada,1,Aaron Johnson,c Kumar b Harmeet Singh,23,16,24,5,0,143.75
+U.S.A. vs Canada,Canada,2,Navneet Dhaliwal,c Jasdeep Singh b Anderson,61,44,62,6,3,138.63
+U.S.A. vs Canada,Canada,3,Pargat Singh,run out (Jasdeep Singh/†Patel),5,7,12,0,0,71.42
+U.S.A. vs Canada,Canada,4,Nicholas Kirton,c Anderson b Ali Khan,51,31,43,3,2,164.51
+U.S.A. vs Canada,Canada,5,Shreyas Movva,,32,16,29,2,2,200.00
+U.S.A. vs Canada,Canada,6,Dilpreet Bajwa,run out (Taylor/†Patel),11,5,5,1,1,220.00
+U.S.A. vs Canada,Canada,7,Dilon Heyliger,,1,1,4,0,0,100.00
+U.S.A. vs Canada,United States of America,1,Steven Taylor,lbw b Kaleem Sana,0,2,2,0,0,0.00
+U.S.A. vs Canada,United States of America,2,Monank Patel,c †Movva b Heyliger,16,16,33,2,0,100.00
+U.S.A. vs Canada,United States of America,3,Andries Gous,c Johnson b Dutta,65,46,76,7,3,141.30
+U.S.A. vs Canada,United States of America,4,Aaron Jones,,94,40,56,4,10,235.00
+U.S.A. vs Canada,United States of America,5,Corey Anderson,,3,5,8,0,0,60.00
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+West Indies vs P.N.G.,Papua New Guinea,1,Tony Ura,c †Pooran b Shepherd,2,5,7,0,0,40.00
+West Indies vs P.N.G.,Papua New Guinea,2,Assad Vala,c Chase b Joseph,21,22,26,2,1,95.45
+West Indies vs P.N.G.,Papua New Guinea,3,Lega Siaka, b Hosein,1,2,2,0,0,50.00
+West Indies vs P.N.G.,Papua New Guinea,4,Sese Bau, b Joseph,50,43,55,6,1,116.27
+West Indies vs P.N.G.,Papua New Guinea,5,Hiri Hiri,c Powell b Motie,2,6,10,0,0,33.33
+West Indies vs P.N.G.,Papua New Guinea,6,Charles Amini,c †Pooran b Russell,12,14,22,0,0,85.71
+West Indies vs P.N.G.,Papua New Guinea,7,Kiplin Doriga,,27,18,23,3,0,150.00
+West Indies vs P.N.G.,Papua New Guinea,8,Chad Soper, b Russell,10,9,10,1,0,111.11
+West Indies vs P.N.G.,Papua New Guinea,9,Alei Nao,run out (Joseph),0,0,2,0,0,-
+West Indies vs P.N.G.,Papua New Guinea,10,Kabua Morea,,2,2,3,0,0,100.00
+West Indies vs P.N.G.,West Indies,1,Brandon King,c Siaka b Vala,34,29,44,7,0,117.24
+West Indies vs P.N.G.,West Indies,2,Johnson Charles,lbw b Nao,0,1,6,0,0,0.00
+West Indies vs P.N.G.,West Indies,3,Nicholas Pooran,c Ura b Kariko,27,27,30,1,2,100.00
+West Indies vs P.N.G.,West Indies,4,Roston Chase,,42,27,39,4,2,155.55
+West Indies vs P.N.G.,West Indies,5,Rovman Powell,c †Doriga b Soper,15,14,14,2,0,107.14
+West Indies vs P.N.G.,West Indies,6,Sherfane Rutherford,c †Doriga b Vala,2,7,6,0,0,28.57
+West Indies vs P.N.G.,West Indies,7,Andre Russell,,15,9,11,0,1,166.66
+match,teamInnings,battingPos,batsmanName,out/not_out,R,B,M,4s,6s,SR
+Oman vs Namibia,Oman,1,Kashyap Prajapati,lbw b Trumpelmann,0,1,1,0,0,0.00
+Oman vs Namibia,Oman,2,Naseem Khushi,c Erasmus b Trumpelmann,6,6,16,1,0,100.00
+Oman vs Namibia,Oman,3,Aqib Ilyas,lbw b Trumpelmann,0,1,2,0,0,0.00
+Oman vs Namibia,Oman,4,Zeeshan Maqsood,lbw b Scholtz,22,20,29,4,0,110.00
+Oman vs Namibia,Oman,5,Khalid Kail,c & b Wiese,34,39,56,1,1,87.17
+Oman vs Namibia,Oman,6,Ayaan Khan,c Frylinck b Erasmus,15,21,16,0,1,71.42
+Oman vs Namibia,Oman,7,Mohammad Nadeem,lbw b Erasmus,6,10,10,0,0,60.00
+Oman vs Namibia,Oman,8,Mehran Khan,lbw b Wiese,7,8,12,1,0,87.50
+Oman vs Namibia,Oman,9,Shakeel Ahmed,c Trumpelmann b Wiese,11,9,13,2,0,122.22
+Oman vs Namibia,Oman,10,Kaleemullah,lbw b Trumpelmann,2,3,4,0,0,66.66
+Oman vs Namibia,Namibia,1,Michael van Lingen, b Bilal Khan,0,2,1,0,0,0.00
+Oman vs Namibia,Namibia,2,Nikolaas Davin,c Mohammad Nadeem b Aqib Ilyas,24,31,35,2,1,77.41
+Oman vs Namibia,Namibia,3,Jan Frylinck, b Mehran Khan,45,48,77,6,0,93.75
+Oman vs Namibia,Namibia,4,Gerhard Erasmus,c Zeeshan Maqsood b Ayaan Khan,13,16,19,1,0,81.25
+Oman vs Namibia,Namibia,5,JJ Smit,c Ayaan Khan b Mehran Khan,8,12,13,1,0,66.66
+Oman vs Namibia,Namibia,6,David Wiese,,9,8,15,0,1,112.50
+Oman vs Namibia,Namibia,7,Zane Green,lbw b Mehran Khan,0,2,2,0,0,0.00
+Oman vs Namibia,Namibia,8,Malan Kruger,,1,1,3,0,0,100.00
