@@ -30,7 +30,8 @@ Nicholas Pooran from the West Indies also had an outstanding tournament, scoring
 
 ### Middle Order Dashboard
 For the middle order, I needed a dependable batsman with a strong batting average, capable of forging crucial partnerships if the openers falter. Criteria included a batting average >40 and strike rate >120.
-![Middle Order Dashboard](Middle Order.PNG)
+
+![Middle Order Dashboard](Middle_Order.PNG)
 Andries Gous from the U.S.A. and Marcus Stoinis from Australia were my selections for the 4th and 5th batting positions, respectively. Gous impressed with over 200 runs and a solid batting average, making him a reliable player to take the game deep. Stoinis, while not amassing as many runs, showcased a commendable batting average and strike rate, coupled with the added advantage of his bowling capabilities.
 
 ### All Rounders Dashboard
