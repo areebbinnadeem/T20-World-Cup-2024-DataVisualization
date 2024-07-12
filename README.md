@@ -15,21 +15,35 @@ This repository contains the following files:
 - **scrapy_spider_batting.py**: Scrapy spider script for scraping batting data.
 - **scrapy_spider_bowling.py**: Scrapy spider script for scraping bowling data.
 
-## Dashboards
+## Visualization with Power BI and Selecting the Best Eleven
 
 Below are some screenshots of the Power BI dashboards created to visualize the data and assist in selecting the Team of the Tournament.
 
 ### Openers Dashboard
+For the openers, I wanted those players who scored more and at a good strike rate since in the power play only two fielders are outside the 30-yard circle and this is the time to score big. Teams scoring more in the powerplay tend to have a strong grip throughout the game.
+
+Focused on players with high strike rates and significant boundary percentages. Criteria included a batting average >30, strike rate >140, and boundary percentage >50%.
 ![Openers Dashboard](Openers.PNG)
+Rohit Sharma and Travis Head emerged as the premier candidates for the opener positions, each amassing over 250 runs in the tournament with impressive strike rates exceeding 155, showcasing their ability to dominate during the powerplay.
+
+Nicholas Pooran from the West Indies also had an outstanding tournament, scoring over 200 runs with a commendable strike rate. His inclusion at the number three spot not only bolsters the batting lineup but also fills the crucial wicketkeeper role.
 
 ### Middle Order Dashboard
+For the middle order, I needed a dependable batsman with a strong batting average, capable of forging crucial partnerships if the openers falter. Criteria included a batting average >40 and strike rate >120.
 ![Middle Order Dashboard](Middle Order.PNG)
+Andries Gous from the U.S.A. and Marcus Stoinis from Australia were my selections for the 4th and 5th batting positions, respectively. Gous impressed with over 200 runs and a solid batting average, making him a reliable player to take the game deep. Stoinis, while not amassing as many runs, showcased a commendable batting average and strike rate, coupled with the added advantage of his bowling capabilities.
 
 ### All Rounders Dashboard
+Selecting all-rounders required players who could significantly contribute with both bat and ball, and finish the game. The criteria included a batting average over 20, a strike rate over 130, and having bowled in more than two innings.
 ![All Rounders Dashboard](All-Rounders.PNG)
+Hardik Pandya from India was an obvious choice, boasting 144 runs at a strike rate exceeding 150, along with 11 wickets and an economy rate under 8.
+
+The decision between Andre Russell (West Indies) and Axar Patel (India) was challenging. However, I chose Axar Patel due to his ability to bat in the middle order and offer a spin option, whereas Andre Russell, being a medium-paced bowler, was less crucial given the already selected pace bowlers Hardik Pandya and Marcus Stoinis.
 
 ### Bowlers Dashboard
+Effective bowlers with low economy rates and high strike rates were essential. The criteria included a bowling average below 20, a strike rate under 16, and an economy rate less than 7.
 ![Bowlers Dashboard](Bowler.PNG)
+Fazalhaq Farooqi from Afghanistan, being the highest wicket-taker with 18 wickets, was an automatic choice. Alongside him, Rashid Khan from Afghanistan provided a spin option with 14 wickets. Jasprit Bumrah from India, with 15 wickets and an economy rate under 5, and Anrich Nortje from South Africa, also with 15 wickets and an economy rate under 6, completed the bowling lineup.
 
 ## Team of the Tournament
 
